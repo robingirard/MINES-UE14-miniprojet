@@ -6,7 +6,7 @@
  * le cours de Jean-Marc Jancovici ["Eléments de base sur l'énergie au 21eme siècle"](https://jancovici.com/publications-et-co/cours-mines-paristech-2019/cours-mines-paris-tech-juin-2019/)
  * les mini-projets 
 
-**L'objectif de ces mini-projet** est de prendre le temps d'un approfondissement sur un sujet choisi autour l'énergie et des enjeux environnementaux (dans un sens assez large). Les étudiants sont regroupés en groupes de 4 ou 5 et choisissent leur sujet. 
+**L'objectif de ces mini-projet** est de prendre le temps d'un approfondissement sur un sujet choisi autour l'énergie et des enjeux environnementaux au sens large. Les étudiants sont regroupés en groupes de 4 ou 5 et choisissent leur sujet. 
 
 **Déroulement** 
  * Les sujets sont présentés en début d'année
