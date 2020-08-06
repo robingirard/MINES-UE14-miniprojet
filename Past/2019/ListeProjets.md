@@ -1,6 +1,6 @@
 #Liste des projets de l'année2019
 
-- S1 - Vers une crise du lithium?[Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2019/Descriptifs/UE142019-S1-Lithium.md)
+- S1 - Vers une crise du lithium?[Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2019/Descriptifs/UE142019-S1-Lithium.html)
 - S2 - [sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2019/Descriptifs/UE142019-S2-Batiment.md)
 - S3 - [sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2019/Descriptifs/UE142019-S3-PaysageetEnergie.md)
 - S4 - [sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2019/Descriptifs/UE142019-S4-AutoconsommationPV.md)
