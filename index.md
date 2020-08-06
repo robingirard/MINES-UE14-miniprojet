@@ -11,8 +11,8 @@
 
 **Déroulement**
  * Les sujets sont présentés en début d'année
- * •	Les étudiants choisissent leur sujet en notant les sujets par ordre de préférence. Les délégués de promotion sont charger de gérer l’attribution des sujets. Chaque sujet doit impliquer 4 ou 5 étudiants.
- * •	Une fois le choix fait, chaque sujet est introduit au groupe d’élèves par l’enseignant-chercheur qui l’a proposé (coordinateur). Cette introduction est réalisée sur un créneau décidé conjointement, éventuellement en visio.
+ * Les étudiants choisissent leur sujet en notant les sujets par ordre de préférence. Les délégués de promotion sont charger de gérer l’attribution des sujets. Chaque sujet doit impliquer 4 ou 5 étudiants.
+ * Une fois le choix fait, chaque sujet est introduit au groupe d’élèves par l’enseignant-chercheur qui l’a proposé (coordinateur). Cette introduction est réalisée sur un créneau décidé conjointement, éventuellement en visio.
  * Les étudiants doivent réaliser un travail qui peut inclure de la bibliographie, des estimations ou calculs reposant sur des modèles simplifiés existant et éventuellement quelques modélisations.
  * Le coordinateur et les étudiants doivent se réunir à nouveau, au moins une fois avant la soutenance, éventuellement en visio
  * Le rendu des mini-projets est un poster présenté devant un jury et toute la promo dans une session ouverte au publique qui a lieu en décembre. Pour chaque poster, un créneau d’environ 20 minutes est réservé et doit permettre aux étudiants de présenter le poster (10 minutes) et au jury de poser des questions (10 minutes). Chaque membre de jury donne une note sur le travail effectué, la qualité de la présentation et des réponses aux questions, et la qualité du poster. La note finale est une moyenne de ces notes.
