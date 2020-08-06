@@ -25,4 +25,4 @@
 **Listes de sujets pour l'année 2020**
 
 
-**Sujets des années précédentes** 2019
+**Sujets des années précédentes** [2019](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2019/ListeProjets.html)
