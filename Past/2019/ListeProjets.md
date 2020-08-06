@@ -1,6 +1,6 @@
 #Listedesprojetsdel'année2019
 
-- Vers une crise du lithium?[Sujet](UE142019-S1-Lithium.md)
+- Vers une crise du lithium? [Sujet](UE142019-S1-Lithium.md)
 - [sujet](UE142019-S2-Batiment.md)
 - [sujet](UE142019-S3-PaysageetEnergie.md)
 - [sujet](UE142019-S4-AutoconsommationPV.md)
@@ -27,4 +27,4 @@
 - [sujet](UE142019-S25-Caoutchouc.md)
 - [sujet](UE142019-S26-Sable.md)
 
---- 
+---
