@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Phytomanagement : des plantes pour guérir les sols et produire de
 l'énergie **
 

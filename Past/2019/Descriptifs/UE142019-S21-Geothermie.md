@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **A l'heure où le monde est à la recherche de nouvelles sources
 d'énergie viables, la géothermie a-t-elle un avenir ? **
 

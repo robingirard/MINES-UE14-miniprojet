@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Evaluation des coûts des énergies renouvelables variables au réseau à
 l'échelle d'un pays **
 

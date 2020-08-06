@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-« Terre et société »
-
-Sujet de mini-projet
-
 Quel rôle du cobalt dans la transition énergétique ?
 
 (Encadrant : Damien Goetz)

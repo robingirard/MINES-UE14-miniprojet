@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-« Terre et société »
-
-Sujet de mini-projet
-
 Hydrogène versus Batteries ?
 
 (Encadrant : Alain Thorel)

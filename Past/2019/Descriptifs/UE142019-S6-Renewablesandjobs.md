@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Do renewables destroy jobs? **
 
 (Encadrant : Andréa Michiorri)

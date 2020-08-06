@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **IA et consommation d'énergie et de matériaux. Pistes d'amélioration
 « low tech » **
 

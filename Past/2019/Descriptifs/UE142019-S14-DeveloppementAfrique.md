@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-« Terre et société »
-
-Sujet de mini-projet
-
 Quel impact du développement des énergies renouvelables en Afrique sur
 les migrations de population
 

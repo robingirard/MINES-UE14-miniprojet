@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Capture et utilisation du carbone : quel potentiel pour décarboner
 l'industrie ? **
 

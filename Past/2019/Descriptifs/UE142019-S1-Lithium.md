@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Vers une crise de lithium ? **
 
 (Encadrant : Jean-François Hochepied)

@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Quelle inscription paysagère des énergies renouvelables pour opérer la
 transition énergétique ? **
 

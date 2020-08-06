@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Peut-on discuter un système 100% renouvelable avec des règles de
 trois ? **
 

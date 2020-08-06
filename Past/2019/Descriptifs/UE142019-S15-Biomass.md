@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Technoeconomic and environmental assessment of a biomass cogeneration
 plant for France **
 

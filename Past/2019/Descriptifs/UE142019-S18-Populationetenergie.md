@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Population, changement climatique et énergie **
 
 (Encadrant : Robin Girard)

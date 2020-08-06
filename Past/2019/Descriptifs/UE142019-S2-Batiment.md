@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Quelles orientations pour la transition énergétique dans le domaine
 des bâtiments ? **
 

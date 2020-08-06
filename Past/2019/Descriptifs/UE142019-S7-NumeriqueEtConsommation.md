@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Le numérique : outil ou entrave au développement durable ? **
 
 (Encadrant : Valérie Roy)

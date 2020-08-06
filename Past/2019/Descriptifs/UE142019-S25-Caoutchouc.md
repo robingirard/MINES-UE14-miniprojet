@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Caoutchouc bio-sourcé -- atout pour la biodiversité ? **
 
 (Encadrant : Jasha Oosterbaan)

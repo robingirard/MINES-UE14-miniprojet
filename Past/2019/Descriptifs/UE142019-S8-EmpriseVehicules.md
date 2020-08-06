@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **L'emprise des véhicules personnels sur les villes **
 
 (Encadrant : Valérie Roy)

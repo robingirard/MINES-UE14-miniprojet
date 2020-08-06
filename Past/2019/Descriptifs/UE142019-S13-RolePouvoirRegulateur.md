@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-« Terre et société »
-
-Sujet de mini-projet
-
 Quel rôle du pouvoir régulateur dans la transition énergétique et
 écologique. Exemple de la Chine.
 

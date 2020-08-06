@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Analyse technique, économique et environnementale de l'énergie PV en
 autoconsommation**
 

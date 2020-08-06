@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Bio-aerogels : a solution for energy savings? **
 
 (Encadrant : Tatiana Budtova)

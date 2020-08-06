@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-« Terre et société »
-
-Sujet de mini-projet
-
 Potentiel de l'exploitation par ISR pour les minéraux pour la transition
 énergétique
 

@@ -1,9 +1,3 @@
-Unité d'Enseignement
-
-**« Terre et société »**
-
-Sujet de mini-projet
-
 **Biogaz : quels volumes pour le futur en France, quels impacts ? **
 
 (Encadrant : Robin Girard)
