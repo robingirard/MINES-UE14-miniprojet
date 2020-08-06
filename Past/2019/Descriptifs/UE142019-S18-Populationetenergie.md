@@ -1,4 +1,4 @@
-**Population, changement climatique et énergie **
+**Population, changement climatique et énergie**
 
 (Encadrant : Robin Girard)
 

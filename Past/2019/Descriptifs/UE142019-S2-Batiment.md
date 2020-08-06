@@ -1,5 +1,5 @@
 **Quelles orientations pour la transition énergétique dans le domaine
-des bâtiments ? **
+des bâtiments ?**
 
 (Encadrant : Bruno Peuportier)
 

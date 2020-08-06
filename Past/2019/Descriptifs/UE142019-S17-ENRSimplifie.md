@@ -1,5 +1,5 @@
 **Peut-on discuter un système 100% renouvelable avec des règles de
-trois ? **
+trois ?**
 
 (Encadrant : Robin Girard)
 

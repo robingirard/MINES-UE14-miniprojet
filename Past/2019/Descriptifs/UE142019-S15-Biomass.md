@@ -1,5 +1,5 @@
 **Technoeconomic and environmental assessment of a biomass cogeneration
-plant for France **
+plant for France**
 
 (Encadrant : Sylvestre Njakou-Djomo)
 

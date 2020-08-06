@@ -1,5 +1,5 @@
 **Quelle inscription paysagère des énergies renouvelables pour opérer la
-transition énergétique ? **
+transition énergétique ?**
 
 (Encadrant : Auréline Doreau, école du paysage)
 

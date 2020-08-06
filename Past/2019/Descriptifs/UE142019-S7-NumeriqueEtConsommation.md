@@ -1,4 +1,4 @@
-**Le numérique : outil ou entrave au développement durable ? **
+**Le numérique : outil ou entrave au développement durable ?**
 
 (Encadrant : Valérie Roy)
 

@@ -1,5 +1,5 @@
 **A l'heure où le monde est à la recherche de nouvelles sources
-d'énergie viables, la géothermie a-t-elle un avenir ? **
+d'énergie viables, la géothermie a-t-elle un avenir ?**
 
 (Encadrant : Hervé Chauris)
 

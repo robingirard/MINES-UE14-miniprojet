@@ -1,4 +1,4 @@
-**Bio-aerogels : a solution for energy savings? **
+**Bio-aerogels : a solution for energy savings?**
 
 (Encadrant : Tatiana Budtova)
 
@@ -7,7 +7,7 @@ global concerns. For example, buildings are responsible of more than 25%
 CO~2~ emissions and 45% of energy consumption. These emissions are
 mainly linked to limited thermal insulation. To change this dramatic
 situation it is necessary to find new generation of thermal insulation
-materials. One way is the **development of high performance thermal
+materials. One way is the**development of high performance thermal
 insulating materials**. These are the innovative *thermal
 super-insulating materials*, i.e. with thermal conductivity below that
 of air (0.025 W/(m.K)) in ambient conditions.

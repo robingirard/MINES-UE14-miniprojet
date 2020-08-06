@@ -1,5 +1,5 @@
 **Capture et utilisation du carbone : quel potentiel pour décarboner
-l'industrie ? **
+l'industrie ?**
 
 (Encadrant : Sandrine Selosse)
 

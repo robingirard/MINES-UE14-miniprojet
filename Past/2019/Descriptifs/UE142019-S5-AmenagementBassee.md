@@ -1,5 +1,5 @@
 **Le projet d'aménagement global de la plaine de la Bassée : concilier
-gestion des crues, biodiversité et autres usages de l'eau **
+gestion des crues, biodiversité et autres usages de l'eau**
 
 (Encadrant : Sophie Guillon)
 

@@ -1,4 +1,4 @@
-**Do renewables destroy jobs? **
+**Do renewables destroy jobs?**
 
 (Encadrant : Andréa Michiorri)
 

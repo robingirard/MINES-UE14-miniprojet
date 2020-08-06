@@ -1,4 +1,4 @@
-**Vers une crise de lithium ? **
+**Vers une crise de lithium ?**
 
 (Encadrant : Jean-François Hochepied)
 

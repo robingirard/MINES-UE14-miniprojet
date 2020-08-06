@@ -1,5 +1,5 @@
 **IA et consommation d'énergie et de matériaux. Pistes d'amélioration
-« low tech » **
+« low tech »**
 
 (Encadrant : Sébastien Travadel)
 

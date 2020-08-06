@@ -1,4 +1,4 @@
-**Caoutchouc bio-sourcé -- atout pour la biodiversité ? **
+**Caoutchouc bio-sourcé -- atout pour la biodiversité ?**
 
 (Encadrant : Jasha Oosterbaan)
 

@@ -1,4 +1,4 @@
-**L'emprise des véhicules personnels sur les villes **
+**L'emprise des véhicules personnels sur les villes**
 
 (Encadrant : Valérie Roy)
 

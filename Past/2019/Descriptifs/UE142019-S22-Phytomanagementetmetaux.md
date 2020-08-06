@@ -1,5 +1,5 @@
 **Phytomanagement : des plantes pour guérir les sols en valorisant les
-métaux extraits des plantes **
+métaux extraits des plantes**
 
 (Encadrant : Agnès Laboudigue)
 

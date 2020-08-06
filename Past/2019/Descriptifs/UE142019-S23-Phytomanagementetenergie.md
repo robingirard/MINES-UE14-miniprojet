@@ -1,5 +1,5 @@
 **Phytomanagement : des plantes pour guérir les sols et produire de
-l'énergie **
+l'énergie**
 
 (Encadrant : Agnès Laboudigue)
 
