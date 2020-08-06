@@ -1,3 +1,5 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
 **Vers une crise de lithium ? **
 
 (Encadrant : Jean-François Hochepied)
