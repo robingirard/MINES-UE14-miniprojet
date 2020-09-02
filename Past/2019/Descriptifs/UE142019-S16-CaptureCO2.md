@@ -1,6 +1,4 @@
-**Capture et utilisation du carbone : quel potentiel pour décarboner
-l'industrie ?**
-
+## Capture et utilisation du carbone : quel potentiel pour décarboner l'industrie ? 
 (Encadrant : Sandrine Selosse)
 
 Les questions d\'approvisionnement et de consommation plus efficace en
@@ -48,5 +46,4 @@ nécessaires au développement de cette filière et de questionner
 l'intérêt du développement du CCUS, au regard par exemple de son bilan
 environnemental.
 
-**Contact :**
-[[sandrine.selosse\@mines-paristech.fr]{.underline}](mailto:sandrine.selosse@mines-paristech.fr)
+## Contact : sandrine.selosse\@mines-paristech.fr
