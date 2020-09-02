@@ -2,8 +2,7 @@
 
 (Encadrant Bruno Peuportier)
 
-Le secteur du bâtiment est le plus consommateur en France (et en Europe)
-: il représente presque la moitié de la consommation énergétique totale,
+Le secteur du bâtiment est le plus consommateur en France (et en Europe) : il représente presque la moitié de la consommation énergétique totale,
 et les deux tiers de la consommation d'électricité. Mettre en œuvre la
 transition énergétique dans ce secteur soulève un certain nombre de
 difficultés, par exemple :
