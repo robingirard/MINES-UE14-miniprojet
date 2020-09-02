@@ -1,6 +1,4 @@
-**Peut-on discuter un système 100% renouvelable avec des règles de
-trois ?**
-
+## Peut-on discuter un système 100% renouvelable avec des règles de trois ? 
 (Encadrant : Robin Girard)
 
 En France comme dans tous les pays du monde, l'électricité doit
@@ -55,8 +53,7 @@ et pourront être utilisées pour soutenir le modèle. A partir des études
 menées, la pertinence d'une analyse de type « règle de trois » sera
 discutée.
 
-**Contact :**
-[[robin.girard\@mines-paristech.fr]{.underline}](mailto:robin.girard@mines-paristech.fr)
+## Contact : robin.girard\@mines-paristech.fr
 
 Références :
 
