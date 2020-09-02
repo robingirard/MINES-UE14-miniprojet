@@ -1,5 +1,4 @@
-**Evaluation des coûts des énergies renouvelables variables au réseau à
-l'échelle d'un pays**
+## Evaluation des coûts des énergies renouvelables variables au réseau à l'échelle d'un pays
 
 (Encadrant : Antoine Monterrat)
 
@@ -32,5 +31,4 @@ préparation des livrables attendus, comprenant en particulier une courbe
 des coûts d'intégration des énergies renouvelables en fonction de leur
 taux de pénétration dans un pays Européen.
 
-**Contact :**
-[[antoine.monterrat\@mines-paristech.fr]{.underline}](mailto:antoine.monterrat@mines-paristech.fr)
+## Contact : antoine.monterrat\@mines-paristech.fr
