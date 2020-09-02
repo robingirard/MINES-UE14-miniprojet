@@ -30,11 +30,10 @@ Le mini-projet a pour objet :
 Ce mini-projet s'inscrit en continuité de celui de l'année dernière («
 IA et low tech ») et pourra capitaliser sur ces premiers travaux.
 
-## Contact : sebastien.travadel\@mines-paristech.fr
+## Contact : sebastien.travadel@mines-paristech.fr
 
 \[1\] *L\'Âge des low tech. Vers une civilisation techniquement
-soutenable* (2014). [Philippe
-Bihouix](https://www.seuil.com/auteur/philippe-bihouix/16560), Paris :
+soutenable* (2014). [Philippe Bihouix](https://www.seuil.com/auteur/philippe-bihouix/16560), Paris :
 Seuil.
 
 \[2\]
