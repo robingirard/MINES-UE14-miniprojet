@@ -1,5 +1,5 @@
-##Le véhicule autonome va-t-il sauver le climat ou détruire un peu plus
-l'environnement ?##
+## Le véhicule autonome va-t-il sauver le climat ou détruire un peu plus
+l'environnement ?## 
 
 (Encadrants : Cathy Descamps Large et Jasha Oosterbaan)
 
@@ -51,7 +51,7 @@ Nous vous proposons
 Pour ce faire, différentes sources d'information peuvent être un point
 de départ intéressant.
 
-##Contacts :
+## Contacts :
 
 Cathy Descamps-Large - cathy.descamps-large\@mines-paristech.fr ISIGE --
 MINES Paris
@@ -59,7 +59,7 @@ MINES Paris
 Jasha Oosterbaan -- jasha.oosterbaan\@mines-paristech.fr (ISIGE -- MINES
 Paris)
 
-##Biblio:
+## Biblio:
 
 [Usbek & Rica Mai 2018 « Les voitures autonomes bientôt capables de
 conduire sans carte et jusque dans nos campagnes ? » Phane
@@ -82,7 +82,7 @@ http://theconversation.com/spread-of-self-driving-cars-could-cause-more-pollutio
 
 [ ]
 
-##[Videos :]
+## [Videos :]
 
 [« La voiture autonome : comment ça marche ? », et « Sous le capot de la
 voiture autonome » - L\'Esprit Sorcier Janvier 2018]

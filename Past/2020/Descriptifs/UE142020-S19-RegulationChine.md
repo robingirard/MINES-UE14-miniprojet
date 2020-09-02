@@ -38,4 +38,4 @@ nos démocraties de la manière dont des pays culturellement et
 politiquement lointains abordent les problèmes de la transition
 énergétique ?
 
-##Contact : alain.thorel\@mines-paristech.fr
+## Contact : alain.thorel\@mines-paristech.fr

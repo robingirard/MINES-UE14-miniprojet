@@ -29,4 +29,4 @@ chercher dans les ressources non conventionnelles ? A quelles échelles
 de temps ou dans quel contexte économique ? Avec quels impacts sur les
 milieux concernés ?
 
-##Contacts : damien.goetz\@mines-paristech.fr
+## Contacts : damien.goetz\@mines-paristech.fr

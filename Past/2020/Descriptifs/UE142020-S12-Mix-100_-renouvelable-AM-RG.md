@@ -1,4 +1,4 @@
-##Mix électrique 100% renouvelable, une fixion ?
+## Mix électrique 100% renouvelable, une fixion ?
 
 (Encadrants : Antoine Monterrat, Robin Girard)
 
@@ -29,12 +29,12 @@ technologie et calculer le coût du système obtenu. La dernière phase
 comportera la synthèse des travaux et la préparation des livrables
 attendus.
 
-##Livrables attendus : 
+## Livrables attendus : 
 
 -   Courbe des coûts d'intégration des énergies renouvelables en
     > fonction de leur taux de pénétration dans un pays Européen
 
-##Connaissances apportées par le projet :
+## Connaissances apportées par le projet :
 
 -   Comprendre le fonctionnement du système électrique, l'adéquation
     > offre-demande et la notion de coût de l'électricité.
@@ -61,7 +61,7 @@ attendus.
 -   Utiliser un petit outil open source python pour faire de
     > l'optimisation de mix électrique
 
-##Contact :
+## Contact :
 [antoine.monterrat\@mines-paristech.fr](mailto:antoine.monterrat@mines-paristech.fr),
 [robin.girard\@mines-paristech.fr](mailto:robin.girard@mines-paristech.fr)
 

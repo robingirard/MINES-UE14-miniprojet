@@ -1,5 +1,5 @@
-[##Avion à hydrogène: espoir ou greenwashing
-?##](https://docs.google.com/document/d/1TN_dNUx8oNs72XqRzCdhRgKiuWxDSfbZwUXMj0WYhaY/edit?usp=sharing)
+[## Avion à hydrogène: espoir ou greenwashing
+?## ](https://docs.google.com/document/d/1TN_dNUx8oNs72XqRzCdhRgKiuWxDSfbZwUXMj0WYhaY/edit?usp=sharing)
 
 (Encadrant : Pedro Affonso Nobrega)
 
@@ -42,7 +42,7 @@ enjeux de la décarbonation du transport aérien et sur des vecteurs
 énergétiques permettant l'utilisation d'énergies renouvelables
 (batteries, hydrogène, combustibles de synthèse et biocombustibles).
 
-##Références :
+## Références :
 
 \[1\] [Présentation du plan de soutien à
 l'aéronautique](https://www.economie.gouv.fr/plan-soutien-aeronautique)
@@ -50,4 +50,4 @@ l'aéronautique](https://www.economie.gouv.fr/plan-soutien-aeronautique)
 \[2\] [Hydrogen-powered
 aviation](https://www.fch.europa.eu/publications/hydrogen-powered-aviation)
 
-##Contact : pedro.affonso\_nobrega\@mines-parsitech.fr
+## Contact : pedro.affonso\_nobrega\@mines-parsitech.fr

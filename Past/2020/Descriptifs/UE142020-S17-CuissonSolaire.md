@@ -34,5 +34,5 @@ d'expérience concrets de ce type de cuisson. Ce benchmark permettra
 d'intégrer aux précédentes analyses le facteur humain, et notamment la
 question de l'usage, avec ses contraintes, et de la maintenance.
 
-##Contact : Florence Drouet, chef de projet ORFEE Low tech,
+## Contact : Florence Drouet, chef de projet ORFEE Low tech,
 [flo.drouet\@gmail.com](mailto:robin.girard@mines-paristech.fr)

@@ -1,4 +1,4 @@
-##L'assainissement des eaux usées dans l'agglomération parisienne
+## L'assainissement des eaux usées dans l'agglomération parisienne
 
 (Encadrant : Sophie Guillon)
 
@@ -74,5 +74,5 @@ et/ou permettre une baignade en Seine.
 Le rendu devra se présenter sous la forme d'un poster, que les étudiants
 devront présenter oralement tout en répondant aux questions d'un jury.
 
-##Contact :
+## Contact :
 [sophie.guillon\@mines-paristech.fr](mailto:sophie.guillon@mines-paristech.fr)

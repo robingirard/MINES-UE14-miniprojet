@@ -49,7 +49,7 @@ l'objectif de
 > meilleures pratiques pour le futur et quelles sont les voies
 > d'amélioration.
 
-##Contacts :
+## Contacts :
 
 Cathy Descamps-Large - cathy.descamps-large\@mines-paristech.fr ISIGE --
 MINES Paris
@@ -57,7 +57,7 @@ MINES Paris
 Jasha Oosterbaan -- jasha.oosterbaan\@mines-paristech.fr (ISIGE -- MINES
 Paris)
 
-##Biblio:
+## Biblio:
 
 \[1\] CILAS C., "Cacao contexte et enjeux", Centre de coopération
 internationale en recherche agronomique pour le développement, CIRAD web
@@ -73,7 +73,7 @@ d\'observation océanique et atmosphérique -
 quelles conditions ?" 2018.: IDDRI
 [https://www.iddri.org/sites/default/files/PDF/Publications/Catalogue%20Iddri/D%C3%A9cryptage/201812-IB1418FR-cacao.pdf](https://www.iddri.org/sites/default/files/PDF/Publications/Catalogue%20Iddri/D%C3%A9cryptage/201812-IB1418FR-cacao.pdf)
 
-##Videos
+## Videos
 
 « Le cacao en voie de disparition » Le Dessous des cartes 2018, \[5 Arte
 \],
