@@ -44,10 +44,10 @@ enjeux de la décarbonation du transport aérien et sur des vecteurs
 
 **Références :**
 
-\[1\] [[Présentation du plan de soutien à
-l'aéronautique]{.underline}](https://www.economie.gouv.fr/plan-soutien-aeronautique)
+\[1\] [Présentation du plan de soutien à
+l'aéronautique](https://www.economie.gouv.fr/plan-soutien-aeronautique)
 
-\[2\] [[Hydrogen-powered
-aviation]{.underline}](https://www.fch.europa.eu/publications/hydrogen-powered-aviation)
+\[2\] [Hydrogen-powered
+aviation](https://www.fch.europa.eu/publications/hydrogen-powered-aviation)
 
 **Contact :** pedro.affonso\_nobrega\@mines-parsitech.fr

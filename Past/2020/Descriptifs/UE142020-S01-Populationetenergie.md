@@ -38,19 +38,19 @@ situations emblématiques ou caricaturales, dont les caractéristiques et
 les évolutions pourront être analysées plus finement. Vous construirez
 le travail en suivant ce qui a été fait l'an passé et qui est disponible
 sur github
-[[ici]{.underline}](https://github.com/robingirard/PopulationEtEnergie).
+[ici](https://github.com/robingirard/PopulationEtEnergie).
 
 **Contact :**
-[[robin.girard\@mines-paristech.fr]{.underline}](mailto:robin.girard@mines-paristech.fr)
+[robin.girard\@mines-paristech.fr](mailto:robin.girard@mines-paristech.fr)
 
 \[1\]
-[[https://www.dailymotion.com/video/x7gtvul]{.underline}](https://www.dailymotion.com/video/x7gtvul)
+[https://www.dailymotion.com/video/x7gtvul](https://www.dailymotion.com/video/x7gtvul)
 
 \[2\] Base de données de populations par pays, par tranche d'âge, par
 sexe, et par type de résidence
-[[http://data.un.org/Data.aspx?d=POP&f=tableCode%3a22]{.underline}](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a22)
+[http://data.un.org/Data.aspx?d=POP&f=tableCode%3a22](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a22)
 
-\[3\] [[https://www.eia.gov/]{.underline}](https://www.eia.gov/)
+\[3\] [https://www.eia.gov/](https://www.eia.gov/)
 
 \[4\] Démographie et climat
-[[https://medium.com/enquetes-ecosophiques/d%C3%A9mographie-et-climat-5a6ef5be37ed]{.underline}](https://medium.com/enquetes-ecosophiques/d%C3%A9mographie-et-climat-5a6ef5be37ed)
+[https://medium.com/enquetes-ecosophiques/d%C3%A9mographie-et-climat-5a6ef5be37ed](https://medium.com/enquetes-ecosophiques/d%C3%A9mographie-et-climat-5a6ef5be37ed)

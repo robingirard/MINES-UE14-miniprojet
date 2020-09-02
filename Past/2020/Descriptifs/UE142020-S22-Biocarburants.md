@@ -21,7 +21,7 @@ forte croissance.
 
 Ainsi dans un contexte urgent de transition et de lutte contre le
 réchauffement climatique, ce projet s'intéresse à deux biocarburants de
-[[première génération]{.underline}](about:blank) : le bioéthanol et le
+[première génération](about:blank) : le bioéthanol et le
 biodiesel. En effet si le caractère « vert » de ces biocarburants est
 mis en avant car moins émissifs (en CO2e) que les carburants
 traditionnels, il faut avoir conscience que leur fabrication rentre en
@@ -31,7 +31,7 @@ biocarburant au Brésil est responsable de déforestation (pour la canne à
 sucre), or la déforestation est synonyme de destruction de puits de
 carbone et donc rejet de CO2 dans l'atmosphère.
 
-**[Objectif]{.underline} :**
+**[Objectif] :**
 
 **- Dresser un panorama des biocarburants dans le monde (chaine de
 fabrication géographique).**
@@ -78,23 +78,23 @@ Combustion: 0,671 kgCO2e/L
 
 *Créer un compte gratuit*
 
-[[https://www.bilans-ges.ademe.fr/fr/accueil/]{.underline}](https://www.bilans-ges.ademe.fr/fr/accueil/)
+[https://www.bilans-ges.ademe.fr/fr/accueil/](https://www.bilans-ges.ademe.fr/fr/accueil/)
 
 Détail sur le calcul des facteurs d'émission de l'essence et du gazole :
 
-[[https://www.bilans-ges.ademe.fr/fr/accueil/documentation-gene/index/page/New\_liquides]{.underline}](https://www.bilans-ges.ademe.fr/fr/accueil/documentation-gene/index/page/New_liquides)
+[https://www.bilans-ges.ademe.fr/fr/accueil/documentation-gene/index/page/New\_liquides](https://www.bilans-ges.ademe.fr/fr/accueil/documentation-gene/index/page/New_liquides)
 
 **Documents de contexte :**
 
-[[https://www.ecologie.gouv.fr/biocarburants]{.underline}](https://www.ecologie.gouv.fr/biocarburants)
+[https://www.ecologie.gouv.fr/biocarburants](https://www.ecologie.gouv.fr/biocarburants)
 
-[[https://www.connaissancedesenergies.org/fiche-pedagogique/biocarburant]{.underline}](https://www.connaissancedesenergies.org/fiche-pedagogique/biocarburant)
+[https://www.connaissancedesenergies.org/fiche-pedagogique/biocarburant](https://www.connaissancedesenergies.org/fiche-pedagogique/biocarburant)
 
-[[https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/energies-renouvelables/quel-avenir-les-biocarburants]{.underline}](https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/energies-renouvelables/quel-avenir-les-biocarburants)
+[https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/energies-renouvelables/quel-avenir-les-biocarburants](https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/energies-renouvelables/quel-avenir-les-biocarburants)
 
 **Définition CO2 equivalent (CO2e) :**
 
-[[https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Carbon\_dioxide\_equivalent/fr\#:\~:text=L\'%C3%A9quivalent%20dioxyde%20de%20carbone,de%20carbone%20ayant%20le%20m%C3%AAme]{.underline}](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Carbon_dioxide_equivalent/fr#:~:text=L'%C3%A9quivalent%20dioxyde%20de%20carbone,de%20carbone%20ayant%20le%20m%C3%AAme)
+[https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Carbon\_dioxide\_equivalent/fr\#:\~:text=L\'%C3%A9quivalent%20dioxyde%20de%20carbone,de%20carbone%20ayant%20le%20m%C3%AAme](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Carbon_dioxide_equivalent/fr#:~:text=L'%C3%A9quivalent%20dioxyde%20de%20carbone,de%20carbone%20ayant%20le%20m%C3%AAme)
 
 **Contact :
-[[sebastien.girault\@carbone4.com]{.underline}](mailto:sebastien.girault@carbone4.com)**
+[sebastien.girault\@carbone4.com](mailto:sebastien.girault@carbone4.com)**

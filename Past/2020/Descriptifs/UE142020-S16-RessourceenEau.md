@@ -3,7 +3,7 @@ Encadrante : Florence Drouet
 
 Campus de la Transition
 
-[[https://campus-transition.org/le-projet/]{.underline}](https://campus-transition.org/le-projet/)
+[https://campus-transition.org/le-projet/](https://campus-transition.org/le-projet/)
 
 Le réchauffement climatique global va générer dans les prochaines
 décennies des précipitations d'eau en France de plus en plus fortes en
@@ -47,4 +47,4 @@ Le groupe d'étudiants sera accueilli une journée sur le site pour mieux
 en percevoir le fonctionnement.
 
 **Contact :**
-[[flo.drouet\@gmail.com]{.underline}](mailto:flo.drouet@gmail.com)
+[flo.drouet\@gmail.com](mailto:flo.drouet@gmail.com)

@@ -33,15 +33,15 @@ originaux.
 **Contact :** sandrine.selosse\@mines-paristech.fr
 
 \[1\]
-[[https://www.agenda-2030.fr/agenda2030/dispositif-de-suivi-les-indicateurs-19]{.underline}](https://www.agenda-2030.fr/agenda2030/dispositif-de-suivi-les-indicateurs-19)
+[https://www.agenda-2030.fr/agenda2030/dispositif-de-suivi-les-indicateurs-19](https://www.agenda-2030.fr/agenda2030/dispositif-de-suivi-les-indicateurs-19)
 
 \[2\]
-[[https://edgar.jrc.ec.europa.eu/overview.php?v=booklet2019]{.underline}](https://edgar.jrc.ec.europa.eu/overview.php?v=booklet2019)
+[https://edgar.jrc.ec.europa.eu/overview.php?v=booklet2019](https://edgar.jrc.ec.europa.eu/overview.php?v=booklet2019)
 
 \[3\]
-[[https://di.unfccc.int/flex\_cad]{.underline}](https://di.unfccc.int/flex_cad)
+[https://di.unfccc.int/flex\_cad](https://di.unfccc.int/flex_cad)
 
 \[4\]
-[[https://www.iea.org/data-and-statistics?country=WORLD&fuel=Energy%20supply&indicator=Total%20primary%20energy%20supply%20(TPES)%20by%20source]{.underline}](https://www.iea.org/data-and-statistics?country=WORLD&fuel=Energy%20supply&indicator=Total%20primary%20energy%20supply%20(TPES)%20by%20source)
+[https://www.iea.org/data-and-statistics?country=WORLD&fuel=Energy%20supply&indicator=Total%20primary%20energy%20supply%20(TPES)%20by%20source](https://www.iea.org/data-and-statistics?country=WORLD&fuel=Energy%20supply&indicator=Total%20primary%20energy%20supply%20(TPES)%20by%20source)
 
-\[5\] [[https://energydata.info/]{.underline}](https://energydata.info/)
+\[5\] [https://energydata.info/](https://energydata.info/)

@@ -2,7 +2,7 @@ Encadrante : Florence Drouet
 
 Campus de la Transition
 
-[[https://campus-transition.org/le-projet/]{.underline}](https://campus-transition.org/le-projet/)
+[https://campus-transition.org/le-projet/](https://campus-transition.org/le-projet/)
 
 La cuisson solaire est une technique actuellement envisagée comme une
 solution "Low Tech" aux techniques de cuisson habituelles fonctionnant
@@ -35,4 +35,4 @@ d'intégrer aux précédentes analyses le facteur humain, et notamment la
 question de l'usage, avec ses contraintes, et de la maintenance.
 
 **Contact :** Florence Drouet, chef de projet ORFEE Low tech,
-[[flo.drouet\@gmail.com]{.underline}](mailto:robin.girard@mines-paristech.fr)
+[flo.drouet\@gmail.com](mailto:robin.girard@mines-paristech.fr)

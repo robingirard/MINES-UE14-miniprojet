@@ -45,6 +45,6 @@ D'autres indicateurs pourront également être étudiés, comme la
 consommation supplémentaire de matériaux engendrée par ce dispositf.
 
 **Contact :**
-[[mailto:stephane.chatelin\@negawatt.org]{.underline}](mailto:stephane.chatelin@negawatt.org)
+[mailto:stephane.chatelin\@negawatt.org](mailto:stephane.chatelin@negawatt.org)
 
 [^1]: https://www.primealaconversion.gouv.fr/dboneco/accueil/

@@ -38,6 +38,6 @@ Bihouix](https://www.seuil.com/auteur/philippe-bihouix/16560), Paris :
 Seuil.
 
 \[2\]
-[[https://www.youtube.com/watch?v=TxT7HD4rzP4]{.underline}](https://www.youtube.com/watch?v=TxT7HD4rzP4)
+[https://www.youtube.com/watch?v=TxT7HD4rzP4](https://www.youtube.com/watch?v=TxT7HD4rzP4)
 présentation d'Olivier Vidal sur la modélisation des tensions entre
 transition énergétique et ressources disponibles.

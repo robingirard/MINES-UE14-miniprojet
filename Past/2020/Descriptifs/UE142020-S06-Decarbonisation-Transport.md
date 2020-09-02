@@ -26,6 +26,6 @@ carbone.
 
 \[1\] These de Aurélien Bigo, "Comment décarboner les transports d'ici
 2050", soutenance prévue en décembre 2020.
-[[http://www.chair-energy-prosperity.org/publications/travail-de-these-decarboner-transports-dici-2050/]{.underline}](http://www.chair-energy-prosperity.org/publications/travail-de-these-decarboner-transports-dici-2050/)
+[http://www.chair-energy-prosperity.org/publications/travail-de-these-decarboner-transports-dici-2050/](http://www.chair-energy-prosperity.org/publications/travail-de-these-decarboner-transports-dici-2050/)
 
 **Contact :** robin.girard\@mines-parsitech.fr

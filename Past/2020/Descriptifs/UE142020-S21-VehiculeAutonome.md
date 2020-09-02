@@ -63,32 +63,32 @@ Paris)
 
 [Usbek & Rica Mai 2018 « Les voitures autonomes bientôt capables de
 conduire sans carte et jusque dans nos campagnes ? » Phane
-Montet]{.underline}
+Montet]
 
-[[https://usbeketrica.com/article/les-voitures-autonomes-bientot-capables-de-conduire-sans-carte-et-jusque-dans-nos-campagnes]{.underline}](https://usbeketrica.com/article/les-voitures-autonomes-bientot-capables-de-conduire-sans-carte-et-jusque-dans-nos-campagnes)
+[https://usbeketrica.com/article/les-voitures-autonomes-bientot-capables-de-conduire-sans-carte-et-jusque-dans-nos-campagnes](https://usbeketrica.com/article/les-voitures-autonomes-bientot-capables-de-conduire-sans-carte-et-jusque-dans-nos-campagnes)
 
-[ ]{.underline}
+[ ]
 
 [Brimont 2018, *Five questions on the sustainability of autonomous
-mobility* IDDRI blogpost]{.underline} [[
-https://www.iddri.org/en/publications-and-events/blog-post/five-questions-sustainability-autonomous-mobility]{.underline}](https://www.iddri.org/en/publications-and-events/blog-post/five-questions-sustainability-autonomous-mobility)
+mobility* IDDRI blogpost] [
+https://www.iddri.org/en/publications-and-events/blog-post/five-questions-sustainability-autonomous-mobility](https://www.iddri.org/en/publications-and-events/blog-post/five-questions-sustainability-autonomous-mobility)
 
-[ ]{.underline}
+[ ]
 
 [Peter Fox-Penner oct 2018: *Spread of self-driving cars could cause
 more pollution -- unless the electric grid transforms radically,* The
-Conversation,]{.underline} [[
-http://theconversation.com/spread-of-self-driving-cars-could-cause-more-pollution-unless-the-electric-grid-transforms-radically-101508]{.underline}](http://theconversation.com/spread-of-self-driving-cars-could-cause-more-pollution-unless-the-electric-grid-transforms-radically-101508)
+Conversation,] [
+http://theconversation.com/spread-of-self-driving-cars-could-cause-more-pollution-unless-the-electric-grid-transforms-radically-101508](http://theconversation.com/spread-of-self-driving-cars-could-cause-more-pollution-unless-the-electric-grid-transforms-radically-101508)
 
-[ ]{.underline}
+[ ]
 
-**[Videos :]{.underline}**
+**[Videos :]**
 
 [« La voiture autonome : comment ça marche ? », et « Sous le capot de la
-voiture autonome » - L\'Esprit Sorcier Janvier 2018]{.underline}
+voiture autonome » - L\'Esprit Sorcier Janvier 2018]
 
-[[https://www.youtube.com/watch?v=wuWDn4v7CQ0]{.underline}](https://www.youtube.com/watch?v=wuWDn4v7CQ0)
+[https://www.youtube.com/watch?v=wuWDn4v7CQ0](https://www.youtube.com/watch?v=wuWDn4v7CQ0)
 
-[[https://www.youtube.com/watch?v=3OyargPN2lI&t=119s]{.underline}](https://www.youtube.com/watch?v=3OyargPN2lI&t=119s)
+[https://www.youtube.com/watch?v=3OyargPN2lI&t=119s](https://www.youtube.com/watch?v=3OyargPN2lI&t=119s)
 
-[ ]{.underline}
+[ ]

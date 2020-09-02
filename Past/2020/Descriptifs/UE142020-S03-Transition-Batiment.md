@@ -63,13 +63,13 @@ Contact : bruno.peuportier\@mines-paristech.fr
 
 Références bibliographiques
 
-[\[1\]]{.underline} [[
-https://hal-mines-paristech.archives-ouvertes.fr/hal-01464310/document]{.underline}](https://hal-mines-paristech.archives-ouvertes.fr/hal-01464310/document)
+[\[1\] [
+https://hal-mines-paristech.archives-ouvertes.fr/hal-01464310/document](https://hal-mines-paristech.archives-ouvertes.fr/hal-01464310/document)
 
-[\[2\]]{.underline} [[
-https://www.ademe.fr/expertises/batiment/passer-a-laction/outils-services/garantie-performance-energetique]{.underline}](https://www.ademe.fr/expertises/batiment/passer-a-laction/outils-services/garantie-performance-energetique)
+[\[2\] [
+https://www.ademe.fr/expertises/batiment/passer-a-laction/outils-services/garantie-performance-energetique](https://www.ademe.fr/expertises/batiment/passer-a-laction/outils-services/garantie-performance-energetique)
 
-[\[3\]]{.underline} [[
-https://www.renovation-doremi.com/]{.underline}](https://www.renovation-doremi.com/)
+[\[3\] [
+https://www.renovation-doremi.com/](https://www.renovation-doremi.com/)
 
-[\[4\] https://www.izuba.fr/]{.underline}
+[\[4\] https://www.izuba.fr/]

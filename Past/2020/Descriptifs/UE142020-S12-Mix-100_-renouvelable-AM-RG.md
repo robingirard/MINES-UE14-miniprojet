@@ -41,12 +41,12 @@ attendus.
 
 -   Aborder les concepts liée à l'économie de l'énergie (CAPEX, OPEX,
     > LCOE), tels que présentés
-    > [[\[1\]]{.underline}](https://www.energy-alternatives.eu/2020/08/20/decomposition-lcoe.html)
+    > [\[1\]](https://www.energy-alternatives.eu/2020/08/20/decomposition-lcoe.html)
 
 -   Connaître les paramètres et notions intervenants dans le secteur de
     > la production d'énergie (différence entre énergie et puissance,
     > facteur de charge, empreinte carbone), voir
-    > [[\[2\]]{.underline}](https://www.energy-alternatives.eu/2020/05/07/mix-de-production-delectricite-energie-et-puissance.html).
+    > [\[2\]](https://www.energy-alternatives.eu/2020/05/07/mix-de-production-delectricite-energie-et-puissance.html).
 
 -   Développer la notion de mix énergétique et connaître les
     > spécificités liées à chaque énergie (charbon, gaz, éolien...)
@@ -62,11 +62,11 @@ attendus.
     > l'optimisation de mix électrique
 
 **Contact :**
-[[antoine.monterrat\@mines-paristech.fr]{.underline}](mailto:antoine.monterrat@mines-paristech.fr),
-[[robin.girard\@mines-paristech.fr]{.underline}](mailto:robin.girard@mines-paristech.fr)
+[antoine.monterrat\@mines-paristech.fr](mailto:antoine.monterrat@mines-paristech.fr),
+[robin.girard\@mines-paristech.fr](mailto:robin.girard@mines-paristech.fr)
 
-\[1\] [[Décomposition du coût actualisé de
-l'électricité]{.underline}](https://www.energy-alternatives.eu/2020/08/20/decomposition-lcoe.html)
+\[1\] [Décomposition du coût actualisé de
+l'électricité](https://www.energy-alternatives.eu/2020/08/20/decomposition-lcoe.html)
 
-\[2\] [[Mix de production d'électricité, energie et
-puissance.]{.underline}](https://www.energy-alternatives.eu/2020/05/07/mix-de-production-delectricite-energie-et-puissance.html)
+\[2\] [Mix de production d'électricité, energie et
+puissance.](https://www.energy-alternatives.eu/2020/05/07/mix-de-production-delectricite-energie-et-puissance.html)

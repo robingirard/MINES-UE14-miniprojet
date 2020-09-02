@@ -4,4 +4,4 @@
 
 TEXTE
 
-[**Contact :** alexandre.mallard\@mines-paristech.fr]{.underline}
+[**Contact :** alexandre.mallard\@mines-paristech.fr]

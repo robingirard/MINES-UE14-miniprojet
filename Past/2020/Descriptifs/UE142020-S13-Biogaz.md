@@ -59,13 +59,13 @@ Müller-Lohse, OFATE, Février 2019
 de gaz naturel.
 
 \[3\]
-[[https://www.ademe.fr/mix-gaz-100-renouvelable-2050]{.underline}](https://www.ademe.fr/mix-gaz-100-renouvelable-2050)
+[https://www.ademe.fr/mix-gaz-100-renouvelable-2050](https://www.ademe.fr/mix-gaz-100-renouvelable-2050)
 
 \[4\] La tête au carré, Agroécologie : les limites de la méthanisation
-[[https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-18-novembre-2019]{.underline}](https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-18-novembre-2019)
+[https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-18-novembre-2019](https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-18-novembre-2019)
 
 \[5\] Etude de Solagro
-[[https://afterres2050.solagro.org/a-propos/le-projet-afterres-2050/]{.underline}](https://afterres2050.solagro.org/a-propos/le-projet-afterres-2050/)
+[https://afterres2050.solagro.org/a-propos/le-projet-afterres-2050/](https://afterres2050.solagro.org/a-propos/le-projet-afterres-2050/)
 
-\[6\] [[Registre
-parcellaire]{.underline}](https://www.data.gouv.fr/fr/datasets/registre-parcellaire-graphique-rpg-contours-des-parcelles-et-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire/)
+\[6\] [Registre
+parcellaire](https://www.data.gouv.fr/fr/datasets/registre-parcellaire-graphique-rpg-contours-des-parcelles-et-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire/)

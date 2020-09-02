@@ -63,21 +63,21 @@ Paris)
 internationale en recherche agronomique pour le développement, CIRAD web
 article
 
-[[https://www.cirad.fr/nos-recherches/filieres-tropicales/cacao/contexte-et-enjeux]{.underline}](https://www.cirad.fr/nos-recherches/filieres-tropicales/cacao/contexte-et-enjeux)
+[https://www.cirad.fr/nos-recherches/filieres-tropicales/cacao/contexte-et-enjeux](https://www.cirad.fr/nos-recherches/filieres-tropicales/cacao/contexte-et-enjeux)
 
 \[2\] SCOTT M., "Climate & Chocolate", 2016. NOAA, Agence américaine
 d\'observation océanique et atmosphérique -
-[[https://www.climate.gov/news-features/climate-and/climate-chocolate]{.underline}](https://www.climate.gov/news-features/climate-and/climate-chocolate)
+[https://www.climate.gov/news-features/climate-and/climate-chocolate](https://www.climate.gov/news-features/climate-and/climate-chocolate)
 
 \[3\] AMIEL F. MULLER A. , LAURANS Y., "Produire un cacao durable : à
 quelles conditions ?" 2018.: IDDRI
-[[https://www.iddri.org/sites/default/files/PDF/Publications/Catalogue%20Iddri/D%C3%A9cryptage/201812-IB1418FR-cacao.pdf]{.underline}](https://www.iddri.org/sites/default/files/PDF/Publications/Catalogue%20Iddri/D%C3%A9cryptage/201812-IB1418FR-cacao.pdf)
+[https://www.iddri.org/sites/default/files/PDF/Publications/Catalogue%20Iddri/D%C3%A9cryptage/201812-IB1418FR-cacao.pdf](https://www.iddri.org/sites/default/files/PDF/Publications/Catalogue%20Iddri/D%C3%A9cryptage/201812-IB1418FR-cacao.pdf)
 
 **Videos**
 
 « Le cacao en voie de disparition » Le Dessous des cartes 2018, \[5 Arte
 \],
 
-[[https://www.youtube.com/watch?v=MoGEqfQ6ojQ]{.underline}](https://www.youtube.com/watch?v=MoGEqfQ6ojQ)
+[https://www.youtube.com/watch?v=MoGEqfQ6ojQ](https://www.youtube.com/watch?v=MoGEqfQ6ojQ)
 
-[ ]{.underline}
+[ ]
