@@ -35,4 +35,5 @@
 - S25 - Systèmes de garantie d'origine, quelles perspectives pour l'hydrogène ? [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/Descriptifs/UE142020-S25-GarantieOrigine.html) --
 - S26 - Comment calculer le contenu local d'une batterie ? [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/Descriptifs/UE142020-S26-ContenuLocal.html) --
 - S27 - Emissions négatives : quels enjeux pour atteindre un 2°C ou un 1.5°C ? [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/Descriptifs/UE142020-S27-NETs.html) --
+
 ---
