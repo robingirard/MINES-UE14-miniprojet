@@ -1,4 +1,4 @@
-**Les technologies du numérique sous confinement**
+##Les technologies du numérique sous confinement
 
 (Encadrant : Valérie Roy)
 
@@ -29,4 +29,4 @@ appareils et ces usages et les analyserez pour comparer les tendances
 des consommations en dehors et pendant le confinement, afin d'appuyer
 vos réflexions.
 
-**Contact :** valerie.roy\@mines-paristech.fr
+##Contact : valerie.roy\@mines-paristech.fr

@@ -1,4 +1,4 @@
-**Population, changement climatique et énergie**
+##Population, changement climatique et énergie
 
 (Encadrant : Robin Girard)
 
@@ -40,7 +40,7 @@ le travail en suivant ce qui a été fait l'an passé et qui est disponible
 sur github
 [ici](https://github.com/robingirard/PopulationEtEnergie).
 
-**Contact :**
+##Contact :
 [robin.girard\@mines-paristech.fr](mailto:robin.girard@mines-paristech.fr)
 
 \[1\]

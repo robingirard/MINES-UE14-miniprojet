@@ -35,4 +35,4 @@ l'importance de différents paramètres des modèles (durée de vie de la
 substance dans le cycle économique, taux de recyclage de la substance en
 fin de vie,...).
 
-**Contacts :** damien.goetz\@mines-paristech.fr
+##Contacts : damien.goetz\@mines-paristech.fr

@@ -46,5 +46,5 @@ piloté par Florence Drouet.
 Le groupe d'étudiants sera accueilli une journée sur le site pour mieux
 en percevoir le fonctionnement.
 
-**Contact :**
+##Contact :
 [flo.drouet\@gmail.com](mailto:flo.drouet@gmail.com)

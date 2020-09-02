@@ -1,4 +1,4 @@
-**Quelle transition énergétique dans le domaine des bâtiments ?**
+##Quelle transition énergétique dans le domaine des bâtiments ?
 
 (Encadrant Bruno Peuportier)
 

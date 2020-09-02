@@ -1,4 +1,4 @@
-**Comment calculer le contenu local d\'une batterie ?**
+##Comment calculer le contenu local d\'une batterie ?
 
 (Encadrant : Estelle Courtier-Arnoux, CSF Nouveaux Systèmes
 Energétiques)
@@ -67,7 +67,7 @@ Il pourra également être intéressant de construire une chaîne
 d'approvisionnement permettant d'atteindre un minimum de 30% de contenu
 local
 
-[**Contact :** estelle.courtier-arnoux\@afgaz.fr]
+[##Contact : estelle.courtier-arnoux\@afgaz.fr]
 
 [ ]
 

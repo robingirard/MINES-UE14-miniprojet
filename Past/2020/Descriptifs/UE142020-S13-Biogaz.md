@@ -48,7 +48,7 @@ différents procédés, les études existantes) et un travail de calcul (à
 partir de python analyser des bases de données géographiques comme le
 registre parcellaire \[6\] pour déterminer le gisement).
 
-**Contact :** robin.girard\@mines-paristech.fr
+##Contact : robin.girard\@mines-paristech.fr
 
 Références :
 
