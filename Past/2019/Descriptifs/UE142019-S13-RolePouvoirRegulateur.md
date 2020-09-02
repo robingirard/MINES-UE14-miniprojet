@@ -1,5 +1,4 @@
-Quel rôle du pouvoir régulateur dans la transition énergétique et
-écologique. Exemple de la Chine.
+# Quel rôle du pouvoir régulateur dans la transition énergétique et écologique. Exemple de la Chine ?
 
 (Encadrant : Alain Thorel)
 
@@ -9,8 +8,7 @@ recharge en hydrogène en 2mn, et qui a une autonomie de plus de 600km en
 émettant 0 gramme de CO~2~, juste de l\'eau pure !\... Le Ministre
 rentre en Chine, et deux jours plus tard, le gouvernement de XI Jinping
 bascule 70% des investissements dédiés aux batteries vers l\'hydrogène
-!!!! ![](media/image1.jpg){width="2.772222222222222in"
-height="1.8486111111111112in"}
+
 
 Cette volte-face est totalement impossible dans nos sociétés européennes
 ; on peut évidemment avoir conscience du différentiel de paradigme entre
@@ -40,4 +38,4 @@ nos démocraties de la manière dont des pays culturellement et
 politiquement lointains abordent les problèmes de la transition
 énergétique.
 
-**Contact :** [alain.thorel\@mines-paristech.fr]{.underline}
+## Contact : alain.thorel\@mines-paristech.fr
