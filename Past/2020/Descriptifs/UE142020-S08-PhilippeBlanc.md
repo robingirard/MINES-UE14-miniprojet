@@ -1,5 +1,4 @@
-## Analyse technique, économique et environnementale de l'énergie PV en
-autoconsommation## 
+## Analyse technique, économique et environnementale de l'énergie PV en autoconsommation
 
 (Encadrants : Philippe Blanc, Paula Perez-Lopez, Romain Besseau, Mélanie
 Douziech et Ghada Bouillass)
@@ -74,4 +73,4 @@ axes :
 > batteries de véhicule électrique « *second life* » ou encore
 > l'utilisation du stockage d'un véhicule électrique).
 
-Contact : philippe.blanc\@mines-paristech.fr
+## Contact : philippe.blanc\@mines-paristech.fr
