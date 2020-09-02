@@ -1,4 +1,4 @@
-**Biogaz : quels volumes pour le futur en France, quels impacts ?**
+## Biogaz : quels volumes pour le futur en France, quels impacts ?
 
 (Encadrant : Robin Girard)
 
@@ -43,8 +43,7 @@ Quelles sont les perspectives d'amélioration ? Si le temps le permet,
 les questions soulevées par l'épandage des résidus de la méthanisation
 comme celles présentées dans \[4\] pourront également être abordées.
 
-**Contact :**
-[[robin.girard\@mines-paristech.fr]{.underline}](mailto:robin.girard@mines-paristech.fr)
+## Contact :robin.girard\@mines-paristech.fr
 
 Références :
 
@@ -55,10 +54,10 @@ Müller-Lohse, OFATE, Février 2019
 de gaz naturel.
 
 \[3\]
-[[https://www.ademe.fr/mix-gaz-100-renouvelable-2050]{.underline}](https://www.ademe.fr/mix-gaz-100-renouvelable-2050)
+[[https://www.ademe.fr/mix-gaz-100-renouvelable-2050]](https://www.ademe.fr/mix-gaz-100-renouvelable-2050)
 
 \[4\] La tête au carré, Agroécologie : les limites de la méthanisation
-[[https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-18-novembre-2019]{.underline}](https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-18-novembre-2019)
+[[https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-18-novembre-2019]](https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-18-novembre-2019)
 
 \[5\] Etude de Solagro
-[[https://afterres2050.solagro.org/a-propos/le-projet-afterres-2050/]{.underline}](https://afterres2050.solagro.org/a-propos/le-projet-afterres-2050/)
+[[https://afterres2050.solagro.org/a-propos/le-projet-afterres-2050/]](https://afterres2050.solagro.org/a-propos/le-projet-afterres-2050/)
