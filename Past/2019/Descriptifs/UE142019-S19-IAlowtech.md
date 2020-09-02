@@ -1,5 +1,4 @@
-**IA et consommation d'énergie et de matériaux. Pistes d'amélioration
-« low tech »**
+## IA et consommation d'énergie et de matériaux. Pistes d'amélioration « low tech »
 
 (Encadrant : Sébastien Travadel)
 
@@ -42,8 +41,7 @@ grille d'interprétation des résultats, afin d'évaluer dans quelle
 mesure, et sous quelles conditions, IA et sobriété numérique (Bordage,
 2019) peuvent être compatibles.
 
-**Contact :**
-[[sebastien.travadel\@mines-paristech.fr]{.underline}](mailto:sebastien.travadel@mines-paristech.fr)
+## Contact : sebastien.travadel\@mines-paristech.fr
 
 Références :
 
@@ -52,7 +50,5 @@ techniquement soutenable, Paris : Le Seuil (Anthropocène), 336 p.
 
 Bordage Frédéric, 2019. Sobriété numérique, Paris : Buchet / Chastel,
 204 p.
-
-[[sebastien.travadel\@mines-paristech.fr]{.underline}](mailto:sebastien.travadel@mines-paristech.fr)
 
 [^1]: Voir notamment https://www.greenit.fr/
