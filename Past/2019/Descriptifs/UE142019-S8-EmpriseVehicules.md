@@ -1,4 +1,4 @@
-**L'emprise des véhicules personnels sur les villes**
+## L'emprise des véhicules personnels sur les villes
 
 (Encadrant : Valérie Roy)
 
@@ -30,5 +30,4 @@ fera partie des résultats de ce projet). Pour les zones d'étude
 retenues, le projet devra préciser et quantifier l'emprise des véhicules
 sur les villes.
 
-**Contact :**
-[[valerie.roy\@mines-paristech.fr]{.underline}](mailto:valerie.roy@mines-paristech.fr)
+## Contact : valerie.roy\@mines-paristech.fr
