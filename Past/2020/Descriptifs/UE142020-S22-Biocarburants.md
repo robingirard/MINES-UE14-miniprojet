@@ -5,7 +5,7 @@
 Dans un monde fini, on ne peut exploiter perpétuellement les ressources
 fossiles de la Terre. Ceci est vrai en particulier pour le pétrole.
 Aussi pour continuer à faire fonctionner le parc de véhicules
-thermiques, des alternatives « vertes » sont mises en avant comme**le
+thermiques, des alternatives « vertes » sont mises en avant comme##le
 bioéthanol (bio E85)** pour remplacer les véhicules essences ou le
 **biodiesel** pour les moteurs gasoil.  
 
@@ -31,20 +31,20 @@ biocarburant au Brésil est responsable de déforestation (pour la canne à
 sucre), or la déforestation est synonyme de destruction de puits de
 carbone et donc rejet de CO2 dans l'atmosphère.
 
-**[Objectif] :**
+**[Objectif] :##
 
 **- Dresser un panorama des biocarburants dans le monde (chaine de
 fabrication géographique).**
 
--  **Définir les enjeux futurs, notamment les critères pour rendre
+-  ##Définir les enjeux futurs, notamment les critères pour rendre
     > vraiment « propres » ces biocarburants.**
 
--  **Calculer le facteur d'émission en kgCO2e/L de ces deux carburants,
+-  ##Calculer le facteur d'émission en kgCO2e/L de ces deux carburants,
     > en fonction du type et de la provenance de la matière organique
     > dont ils sont issus. (Facteurs d'émissions existant sur l'ADEME à
     > challenger). Les comparer aux facteurs d'émissions de l'essence et
     > du diesel et en tirer les conclusions pertinentes**. Cette partie
-    > peut être rendue sous format**Excel** par exemple.
+    > peut être rendue sous format##Excel** par exemple.
 
 **Facteurs d'émissions issus de l'ADEME** (site indispensable pour
 l'étude)
@@ -84,7 +84,7 @@ Détail sur le calcul des facteurs d'émission de l'essence et du gazole :
 
 [https://www.bilans-ges.ademe.fr/fr/accueil/documentation-gene/index/page/New\_liquides](https://www.bilans-ges.ademe.fr/fr/accueil/documentation-gene/index/page/New_liquides)
 
-**Documents de contexte :**
+**Documents de contexte :##
 
 [https://www.ecologie.gouv.fr/biocarburants](https://www.ecologie.gouv.fr/biocarburants)
 
@@ -92,7 +92,7 @@ Détail sur le calcul des facteurs d'émission de l'essence et du gazole :
 
 [https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/energies-renouvelables/quel-avenir-les-biocarburants](https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages/energies-renouvelables/quel-avenir-les-biocarburants)
 
-**Définition CO2 equivalent (CO2e) :**
+**Définition CO2 equivalent (CO2e) :##
 
 [https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Carbon\_dioxide\_equivalent/fr\#:\~:text=L\'%C3%A9quivalent%20dioxyde%20de%20carbone,de%20carbone%20ayant%20le%20m%C3%AAme](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Carbon_dioxide_equivalent/fr#:~:text=L'%C3%A9quivalent%20dioxyde%20de%20carbone,de%20carbone%20ayant%20le%20m%C3%AAme)
 

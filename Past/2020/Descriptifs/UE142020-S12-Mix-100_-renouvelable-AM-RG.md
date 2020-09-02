@@ -29,7 +29,7 @@ technologie et calculer le coût du système obtenu. La dernière phase
 comportera la synthèse des travaux et la préparation des livrables
 attendus.
 
-**Livrables attendus :**
+**Livrables attendus :##
 
 -   Courbe des coûts d'intégration des énergies renouvelables en
     > fonction de leur taux de pénétration dans un pays Européen
