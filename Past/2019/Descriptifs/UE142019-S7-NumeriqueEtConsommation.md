@@ -1,4 +1,4 @@
-**Le numérique : outil ou entrave au développement durable ?**
+## Le numérique : outil ou entrave au développement durable ?
 
 (Encadrant : Valérie Roy)
 
@@ -33,10 +33,9 @@ ces appareils et usages et les analyser pour en extraire les tendances
 de consommations. Ainsi, il sera possible d'extraire des pistes de
 réflexions autour de la question posée.
 
-**Contact :**
-[[valerie.roy\@mines-paristech.fr]{.underline}](mailto:valerie.roy@mines-paristech.fr)
+## Contact : valerie.roy\@mines-paristech.fr
 
-**Références**:
+## Références : 
 
 -   The Shift Project
     [https://theshiftproject.org](https://theshiftproject.org/);
