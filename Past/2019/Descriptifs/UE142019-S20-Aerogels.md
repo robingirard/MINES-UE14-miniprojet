@@ -56,20 +56,10 @@ processing?
 
 References:
 
-1.  M. Koebel, A. Rigacci,P. Achard, "Aerogel-based thermal
-    > superinsulation: an overview", *J. Sol-Gel Sci. Technol*. 63,
-    > 315 (2012)
+1.  M. Koebel, A. Rigacci,P. Achard, "Aerogel-based thermal superinsulation: an overview", *J. Sol-Gel Sci. Technol*. 63, 315 (2012)
 
-2.  S. Zhao, W. J. Malfait, A. Demilecamps, Y. Zhang, S. Brunner, L.
-    > Huber, P. Tingaut, A. Rigacci, T. Budtova, M. Koebel "Strong,
-    > thermally superinsulating biopolymer-silica aerogel hybrids by
-    > cogelation of silicic acid with pectin" *Angew Chem Int Ed* 54,
-    > 14282 (2015)
+2.  S. Zhao, W. J. Malfait, A. Demilecamps, Y. Zhang, S. Brunner, L. Huber, P. Tingaut, A. Rigacci, T. Budtova, M. Koebel "Strong, thermally superinsulating biopolymer-silica aerogel hybrids by cogelation of silicic acid with pectin" *Angew Chem Int Ed* 54, 14282 (2015)
 
-3.  L. Druel, R. Bardl, W. Vorwerg, T. Budtova "Starch aerogels: a
-    > member of the family of thermal super-insulating materials",
-    > *Biomacromolecules* 18 (12), 4232--4239 (2017)
+3.  L. Druel, R. Bardl, W. Vorwerg, T. Budtova "Starch aerogels: a member of the family of thermal super-insulating materials",  *Biomacromolecules* 18 (12), 4232--4239 (2017)
 
-4.  S. Groult, T. Budtova "Thermal conductivity/structure correlations
-    > in thermal super-insulating pectin aerogels", *Carbohydrate
-    > Polymers*, 196, 73--81 (2018)
+4.  S. Groult, T. Budtova "Thermal conductivity/structure correlations  in thermal super-insulating pectin aerogels", *Carbohydrate  Polymers*, 196, 73--81 (2018)
