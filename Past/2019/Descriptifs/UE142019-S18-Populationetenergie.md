@@ -1,4 +1,4 @@
-**Population, changement climatique et énergie**
+## Population, changement climatique et énergie**
 
 (Encadrant : Robin Girard)
 
@@ -37,15 +37,14 @@ Le travail pourra permettre d'identifier quelques pays montrant des
 situations emblématiques ou caricaturales, dont les caractéristiques et
 les évolutions pourront être analysées plus finement.
 
-**Contact :**
-[[robin.girard\@mines-paristech.fr]{.underline}](mailto:robin.girard@mines-paristech.fr)
+## Contact : robin.girard\@mines-paristech.fr]](mailto:robin.girard@mines-paristech.fr)
 
 \[1\]
-[[https://www.arte.tv/fr/videos/083964-016-A/le-dessous-des-cartes/]{.underline}](https://www.arte.tv/fr/videos/083964-016-A/le-dessous-des-cartes/)
+[[https://www.arte.tv/fr/videos/083964-016-A/le-dessous-des-cartes/]](https://www.arte.tv/fr/videos/083964-016-A/le-dessous-des-cartes/)
 disponible jusqu'au 10/12/2019
 
 \[2\] Base de données de populations par pays, par tranche d'âge, par
 sexe, et par type de résidence
-[[http://data.un.org/Data.aspx?d=POP&f=tableCode%3a22]{.underline}](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a22)
+[[http://data.un.org/Data.aspx?d=POP&f=tableCode%3a22]](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a22)
 
-\[3\] [[https://www.eia.gov/]{.underline}](https://www.eia.gov/)
+\[3\] [[https://www.eia.gov/]](https://www.eia.gov/)
