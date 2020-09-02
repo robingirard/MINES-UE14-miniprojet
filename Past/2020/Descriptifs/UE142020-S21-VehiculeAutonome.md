@@ -80,10 +80,10 @@ voiture autonome » - L\'Esprit Sorcier Janvier 2018]
 
 ## Contacts :
 
-Cathy Descamps-Large - cathy.descamps-large\@mines-paristech.fr ISIGE --
+Cathy Descamps-Large - cathy.descamps-large@mines-paristech.fr ISIGE --
 MINES Paris
 
-Jasha Oosterbaan -- jasha.oosterbaan\@mines-paristech.fr (ISIGE -- MINES
+Jasha Oosterbaan -- jasha.oosterbaan@mines-paristech.fr (ISIGE -- MINES
 Paris)
 
 
