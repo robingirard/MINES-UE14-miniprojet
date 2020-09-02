@@ -1,4 +1,4 @@
-**Caoutchouc bio-sourcé -- atout pour la biodiversité ?**
+## Caoutchouc bio-sourcé -- atout pour la biodiversité ?
 
 (Encadrant : Jasha Oosterbaan)
 
@@ -45,5 +45,4 @@ Il s\'agira notamment :
 -   pour finalement élaborer des scénarios prospectifs en y incluant des
     éléments de réflexion sociétaux, politiques et géopolitiques.
 
-**Contact :**
-[[jasha.oosterbaan\@mines-paristech.fr]{.underline}](mailto:jasha.oosterbaan@mines-paristech.fr)
+## Contact : jasha.oosterbaan\@mines-paristech.fr
