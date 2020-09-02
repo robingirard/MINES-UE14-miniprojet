@@ -1,5 +1,4 @@
-**A l'heure où le monde est à la recherche de nouvelles sources
-d'énergie viables, la géothermie a-t-elle un avenir ?**
+## A l'heure où le monde est à la recherche de nouvelles source d'énergie viables, la géothermie a-t-elle un avenir ?
 
 (Encadrant : Hervé Chauris)
 
@@ -37,5 +36,4 @@ sont les risques encourus ? La modélisation géo-mécanique peut-elle
 apporter des réponses ? Quelle politique / quelles garanties pour
 autoriser la fracturation hydraulique ?
 
-**Contact :**
-[[herve.chauris\@mines-paristech.fr]{.underline}](mailto:herve.chauris@mines-paristech.fr)
+## Contact : herve.chauris\@mines-paristech.fr
