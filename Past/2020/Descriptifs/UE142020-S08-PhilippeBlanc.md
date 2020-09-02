@@ -73,4 +73,4 @@ axes :
 > batteries de véhicule électrique « *second life* » ou encore
 > l'utilisation du stockage d'un véhicule électrique).
 
-## Contact : philippe.blanc\@mines-paristech.fr
+## Contact : philippe.blanc@mines-paristech.fr
