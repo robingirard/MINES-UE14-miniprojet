@@ -58,20 +58,20 @@ discutée.
 Références :
 
 \[1\] Etude « renewable energy future » de 2013
-[[https://www.nrel.gov/analysis/re-futures.html]{.underline}](https://www.nrel.gov/analysis/re-futures.html)
+[[https://www.nrel.gov/analysis/re-futures.html]](https://www.nrel.gov/analysis/re-futures.html)
 
 mise à jour très prochainement
-[[https://www.nrel.gov/analysis/naris.html]{.underline}](https://www.nrel.gov/analysis/naris.html)
+[[https://www.nrel.gov/analysis/naris.html]](https://www.nrel.gov/analysis/naris.html)
 peut-être avant 2020.
 
 \[2\] 2010 SRU scenario en Allemagne
-[[http://www.umweltrat.de/SharedDocs/Downloads/EN/04\_Statements/2010\_05\_Statement15\_Renewablesby2050.pdf?\_\_blob=publicationFile]{.underline}](http://www.umweltrat.de/SharedDocs/Downloads/EN/04_Statements/2010_05_Statement15_Renewablesby2050.pdf?__blob=publicationFile)
+[[http://www.umweltrat.de/SharedDocs/Downloads/EN/04\_Statements/2010\_05\_Statement15\_Renewablesby2050.pdf?\_\_blob=publicationFile]](http://www.umweltrat.de/SharedDocs/Downloads/EN/04_Statements/2010_05_Statement15_Renewablesby2050.pdf?__blob=publicationFile)
 
 \[3\] étude faite en France pour l'ADEME en 2015
-[[https://www.ademe.fr/mix-electrique-100-renouvelable-analyses-optimisations]{.underline}](https://www.ademe.fr/mix-electrique-100-renouvelable-analyses-optimisations)
+[[https://www.ademe.fr/mix-electrique-100-renouvelable-analyses-optimisations]](https://www.ademe.fr/mix-electrique-100-renouvelable-analyses-optimisations)
 
 \[4\] rapport principal de l'étude pour l'ADEME
 [[https://www.ademe.fr/sites/default/files/assets/documents/mix-electrique-rapport-2015.pdf]](https://www.ademe.fr/sites/default/files/assets/documents/mix-electrique-rapport-2015.pdf)
 
 \[5\]
-[[https://jancovici.com/transition-energetique/renouvelables/100-renouvelable-pour-pas-plus-cher-fastoche/]{.underline}](https://jancovici.com/transition-energetique/renouvelables/100-renouvelable-pour-pas-plus-cher-fastoche/)
+[[https://jancovici.com/transition-energetique/renouvelables/100-renouvelable-pour-pas-plus-cher-fastoche/]](https://jancovici.com/transition-energetique/renouvelables/100-renouvelable-pour-pas-plus-cher-fastoche/)
