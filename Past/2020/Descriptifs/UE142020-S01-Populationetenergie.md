@@ -40,8 +40,7 @@ le travail en suivant ce qui a été fait l'an passé et qui est disponible
 sur github
 [ici](https://github.com/robingirard/PopulationEtEnergie).
 
-## Contact :
-[robin.girard\@mines-paristech.fr](mailto:robin.girard@mines-paristech.fr)
+## Contact : [robin.girard\@mines-paristech.fr](mailto:robin.girard@mines-paristech.fr)
 
 \[1\]
 [https://www.dailymotion.com/video/x7gtvul](https://www.dailymotion.com/video/x7gtvul)
