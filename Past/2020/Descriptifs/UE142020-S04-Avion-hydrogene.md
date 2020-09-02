@@ -1,5 +1,5 @@
-[**Avion à hydrogène: espoir ou greenwashing
-?**](https://docs.google.com/document/d/1TN_dNUx8oNs72XqRzCdhRgKiuWxDSfbZwUXMj0WYhaY/edit?usp=sharing)
+**Avion à hydrogène: espoir ou greenwashing
+?**
 
 (Encadrant : Pedro Affonso Nobrega)
 
