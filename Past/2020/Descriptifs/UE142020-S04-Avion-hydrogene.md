@@ -25,13 +25,9 @@ comme vecteur énergétique ne sont pas, en soi, une garantie de
 "neutralité" carbone ou d'absence d'impacts environnementaux. Ainsi,
 dans ce mini-projet, le groupe devra :
 
-1.  Se familiariser avec les systèmes de propulsion des avions de ligne
-    > et leur impact environnemental actuel.
+1.  Se familiariser avec les systèmes de propulsion des avions de ligne et leur impact environnemental actuel.
 
-2.  Comparer les différentes alternatives technologiques existantes pour
-    > le stockage et la conversion d'énergie pour la propulsion
-    > (densités d'énergie et puissance, aspects économiques, impacts
-    > environnementaux).
+2.  Comparer les différentes alternatives technologiques existantes pour le stockage et la conversion d'énergie pour la propulsion (densités d'énergie et puissance, aspects économiques, impacts environnementaux).
 
 L'objectif est d'évaluer la perspective d'un "avion à hydrogène" et
 répondre à la question : est-ce une option pour réduire l'impact du
@@ -50,4 +46,4 @@ l'aéronautique](https://www.economie.gouv.fr/plan-soutien-aeronautique)
 \[2\] [Hydrogen-powered
 aviation](https://www.fch.europa.eu/publications/hydrogen-powered-aviation)
 
-**Contact :** pedro.affonso\_nobrega\@mines-parsitech.fr
+**Contact :** pedro.affonso_nobrega\@mines-parsitech.fr
