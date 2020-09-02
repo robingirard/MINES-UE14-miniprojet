@@ -1,5 +1,4 @@
-**Analyse technique, économique et environnementale de l'énergie PV en
-autoconsommation**
+## Analyse technique, économique et environnementale de l'énergie PV en autoconsommation
 
 (Encadrants : Philippe Blanc, Paula Perez-Lopez, Romain Besseau et Ghada
 Bouillass)
@@ -72,7 +71,6 @@ Pour cela, les différentes étapes seront de :
     quant aux conditions faisant de l'autoconsommation d'énergie PV une
     solution pertinente.
 
-**Contact :**
-[[philippe.blanc\@mines-paristech.fr]{.underline}](mailto:philippe.blanc@mines-paristech.fr)
+## Contact : philippe.blanc\@mines-paristech.fr
 
 [^1]: [*[https://www.insunwetrust.solar/blog/conso/autoconsommation-ou-vente-electricite/]{.underline}*](https://www.insunwetrust.solar/blog/conso/autoconsommation-ou-vente-electricite/)
