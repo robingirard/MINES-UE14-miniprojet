@@ -1,4 +1,4 @@
-Hydrogène versus Batteries ?
+## Hydrogène versus Batteries ?
 
 (Encadrant : Alain Thorel)
 
@@ -41,5 +41,4 @@ stockage de l\'énergie renouvelable.
 A méditer pour ce qui concerne les hydrocarbures : \"*l\'âge de pierre
 s\'est achevé alors qu\'il restait encore des pierres* !!\"
 
-**Contact :**
-[[alain.thorel\@mines-paristech.fr]{.underline}](mailto:alain.thorel@mines-paristech.fr)
+## Contact : alain.thorel\@mines-paristech.fr
