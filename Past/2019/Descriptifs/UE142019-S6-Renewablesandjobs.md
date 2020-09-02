@@ -1,4 +1,4 @@
-**Do renewables destroy jobs?**
+## Do renewables destroy jobs? 
 
 (Encadrant : Andréa Michiorri)
 
@@ -80,8 +80,7 @@ From these considerations and the documents below, the students must:
     jobs?". Possibly not only with a simple Yes/No answer, but a more
     articulate analysis of different niches and regions.
 
-**Contact :**
-[[andrea.michiorri\@mines-paristech.fr]{.underline}](mailto:andrea.michiorri@mines-paristech.fr)
+## Contact : andrea.michiorri\@mines-paristech.fr
 
 **References**
 
