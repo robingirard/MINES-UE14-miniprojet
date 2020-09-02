@@ -67,14 +67,8 @@ Il pourra également être intéressant de construire une chaîne
 d'approvisionnement permettant d'atteindre un minimum de 30% de contenu
 local
 
-[## Contact : estelle.courtier-arnoux\@afgaz.fr]
+## Contact : estelle.courtier-arnoux\@afgaz.fr
 
-[ ]
+[1] [https://www.cre.fr/Documents/Appels-d-offres/appel-d-offres-portant-sur-la-realisation-et-l-exploitation-d-installations-de-production-d-electricite-a-partir-de-l-energie-mecanique-du-vent-im](https://www.cre.fr/Documents/Appels-d-offres/appel-d-offres-portant-sur-la-realisation-et-l-exploitation-d-installations-de-production-d-electricite-a-partir-de-l-energie-mecanique-du-vent-im)
 
-[\[1\] [
-https://www.cre.fr/Documents/Appels-d-offres/appel-d-offres-portant-sur-la-realisation-et-l-exploitation-d-installations-de-production-d-electricite-a-partir-de-l-energie-mecanique-du-vent-im](https://www.cre.fr/Documents/Appels-d-offres/appel-d-offres-portant-sur-la-realisation-et-l-exploitation-d-installations-de-production-d-electricite-a-partir-de-l-energie-mecanique-du-vent-im)
-
-[ ]
-
-[\[2\] [
-https://www.cre.fr/Documents/Appels-d-offres/appel-d-offres-portant-sur-la-realisation-et-l-exploitation-d-installations-de-production-d-electricite-a-partir-de-l-energie-solaire-centrales-a](https://www.cre.fr/Documents/Appels-d-offres/appel-d-offres-portant-sur-la-realisation-et-l-exploitation-d-installations-de-production-d-electricite-a-partir-de-l-energie-solaire-centrales-a)
+[2] [https://www.cre.fr/Documents/Appels-d-offres/appel-d-offres-portant-sur-la-realisation-et-l-exploitation-d-installations-de-production-d-electricite-a-partir-de-l-energie-solaire-centrales-a](https://www.cre.fr/Documents/Appels-d-offres/appel-d-offres-portant-sur-la-realisation-et-l-exploitation-d-installations-de-production-d-electricite-a-partir-de-l-energie-solaire-centrales-a)
