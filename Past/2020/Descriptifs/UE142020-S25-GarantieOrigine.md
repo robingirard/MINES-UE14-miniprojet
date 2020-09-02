@@ -50,7 +50,7 @@ production de l\'hydrogène :
 
 - issu de l\'électrolyse à partir d\'une électricité 100% renouvelable
 
-## Contact : estelle.courtier-arnoux\@afgaz.fr
+## Contact : estelle.courtier-arnoux@afgaz.fr
 
 [\[1\] [
 https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32018L2001&qid=1547650604940&from=FR](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32018L2001&qid=1547650604940&from=FR)
