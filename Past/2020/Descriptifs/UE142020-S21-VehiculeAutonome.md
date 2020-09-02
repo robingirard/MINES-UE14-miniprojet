@@ -50,14 +50,6 @@ Nous vous proposons
 Pour ce faire, différentes sources d'information peuvent être un point
 de départ intéressant.
 
-## Contacts :
-
-Cathy Descamps-Large - cathy.descamps-large\@mines-paristech.fr ISIGE --
-MINES Paris
-
-Jasha Oosterbaan -- jasha.oosterbaan\@mines-paristech.fr (ISIGE -- MINES
-Paris)
-
 ## Biblio:
 
 [Usbek & Rica Mai 2018 « Les voitures autonomes bientôt capables de
@@ -66,20 +58,15 @@ Montet]
 
 [https://usbeketrica.com/article/les-voitures-autonomes-bientot-capables-de-conduire-sans-carte-et-jusque-dans-nos-campagnes](https://usbeketrica.com/article/les-voitures-autonomes-bientot-capables-de-conduire-sans-carte-et-jusque-dans-nos-campagnes)
 
-[ ]
-
 [Brimont 2018, *Five questions on the sustainability of autonomous
 mobility* IDDRI blogpost] [
 https://www.iddri.org/en/publications-and-events/blog-post/five-questions-sustainability-autonomous-mobility](https://www.iddri.org/en/publications-and-events/blog-post/five-questions-sustainability-autonomous-mobility)
-
-[ ]
 
 [Peter Fox-Penner oct 2018: *Spread of self-driving cars could cause
 more pollution -- unless the electric grid transforms radically,* The
 Conversation,] [
 http://theconversation.com/spread-of-self-driving-cars-could-cause-more-pollution-unless-the-electric-grid-transforms-radically-101508](http://theconversation.com/spread-of-self-driving-cars-could-cause-more-pollution-unless-the-electric-grid-transforms-radically-101508)
 
-[ ]
 
 ## [Videos :]
 
@@ -90,4 +77,13 @@ voiture autonome » - L\'Esprit Sorcier Janvier 2018]
 
 [https://www.youtube.com/watch?v=3OyargPN2lI&t=119s](https://www.youtube.com/watch?v=3OyargPN2lI&t=119s)
 
-[ ]
+
+## Contacts :
+
+Cathy Descamps-Large - cathy.descamps-large\@mines-paristech.fr ISIGE --
+MINES Paris
+
+Jasha Oosterbaan -- jasha.oosterbaan\@mines-paristech.fr (ISIGE -- MINES
+Paris)
+
+
