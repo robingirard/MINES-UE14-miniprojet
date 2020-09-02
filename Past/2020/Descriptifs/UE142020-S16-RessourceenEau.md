@@ -1,8 +1,6 @@
+## Quelles ressources en eau dans un contexte de dérèglement climatique - Cas concret 
 
-Encadrante : Florence Drouet
-
-Campus de la Transition
-
+(Encadrante : Florence Drouet Campus de la Transition)
 [https://campus-transition.org/le-projet/](https://campus-transition.org/le-projet/)
 
 Le réchauffement climatique global va générer dans les prochaines
@@ -46,5 +44,4 @@ piloté par Florence Drouet.
 Le groupe d'étudiants sera accueilli une journée sur le site pour mieux
 en percevoir le fonctionnement.
 
-## Contact :
-[flo.drouet\@gmail.com](mailto:flo.drouet@gmail.com)
+## Contact : [flo.drouet\@gmail.com](mailto:flo.drouet@gmail.com)
