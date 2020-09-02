@@ -1,4 +1,4 @@
-**Bio-aerogels : a solution for energy savings?**
+## Bio-aerogels : a solution for energy savings?
 
 (Encadrant : Tatiana Budtova)
 
@@ -52,8 +52,7 @@ with classical inorganic and synthetic polymer aerogels in terms of
 performance and price, the latter including the price of materials and
 processing?
 
-**Contact :**
-[[Tatiana.Budtova\@mines-paristech.fr]{.underline}](mailto:Tatiana.Budtova@mines-paristech.fr)
+## Contact : Tatiana.Budtova\@mines-paristech.fr
 
 References:
 
