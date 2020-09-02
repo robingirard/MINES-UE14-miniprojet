@@ -1,4 +1,4 @@
-Quel rôle du cobalt dans la transition énergétique ?
+## Quel rôle du cobalt dans la transition énergétique ?
 
 (Encadrant : Damien Goetz)
 
@@ -31,6 +31,4 @@ substitutions technologiques,...). Enfin, au-delà des aspects
 « techniques », les enjeux sociétaux, environnementaux et géopolitiques
 de la production de cobalt devront également être examinés.
 
-**Contacts :**
-[[vincent.lagneau\@mines-paristech.fr]{.underline}](mailto:vincent.lagneau@mines-paristech.fr),
-[[damien.goetz\@mines-paristech.fr]{.underline}](mailto:damien.goetz@mines-paristech.fr)
+**Contacts :** vincent.lagneau\@mines-paristech.fr, damien.goetz\@mines-paristech.fr
