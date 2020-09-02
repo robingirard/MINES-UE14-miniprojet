@@ -74,4 +74,4 @@ et/ou permettre une baignade en Seine.
 Le rendu devra se présenter sous la forme d'un poster, que les étudiants
 devront présenter oralement tout en répondant aux questions d'un jury.
 
-## Contact : [sophie.guillon\@mines-paristech.fr](mailto:sophie.guillon@mines-paristech.fr)
+## Contact : sophie.guillon@mines-paristech.fr
