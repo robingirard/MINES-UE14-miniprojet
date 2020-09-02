@@ -4,4 +4,4 @@
 
 TEXTE A VENIR
 
-## Contact : hedi.sellami\@mines-paristech.fr
+## Contact : hedi.sellami@mines-paristech.fr
