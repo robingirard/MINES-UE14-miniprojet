@@ -33,7 +33,7 @@ autoriser la fracturation hydraulique ? Le projet s'appuiera sur une
 numérique simple pour mieux appréhender le comportement géomécanique du
 sous-sol en présence de fluides sous pression.
 
-Contact : herve.chauris\@mines-paristech.fr
+## Contact : herve.chauris@mines-paristech.fr
 
 > Foulger, G. R., Wilson, M., Gluyas, J., Julian, B. R., and Davies, R.
 > (2018). Global review of human-induced earthquakes. Earth-Science
