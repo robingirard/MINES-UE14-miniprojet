@@ -1,5 +1,4 @@
-## Le véhicule autonome va-t-il sauver le climat ou détruire un peu plus
-l'environnement ?## 
+## Le véhicule autonome va-t-il sauver le climat ou détruire un peu plus l'environnement ?
 
 (Encadrants : Cathy Descamps Large et Jasha Oosterbaan)
 
