@@ -36,34 +36,21 @@ attendus.
 
 ## Connaissances apportées par le projet :
 
--   Comprendre le fonctionnement du système électrique, l'adéquation
-    > offre-demande et la notion de coût de l'électricité.
+-   Comprendre le fonctionnement du système électrique, l'adéquation offre-demande et la notion de coût de l'électricité.
 
--   Aborder les concepts liée à l'économie de l'énergie (CAPEX, OPEX,
-    > LCOE), tels que présentés
-    > [\[1\]](https://www.energy-alternatives.eu/2020/08/20/decomposition-lcoe.html)
+-   Aborder les concepts liée à l'économie de l'énergie (CAPEX, OPEX,LCOE), tels que présentés [\[1\]](https://www.energy-alternatives.eu/2020/08/20/decomposition-lcoe.html)
 
--   Connaître les paramètres et notions intervenants dans le secteur de
-    > la production d'énergie (différence entre énergie et puissance,
-    > facteur de charge, empreinte carbone), voir
-    > [\[2\]](https://www.energy-alternatives.eu/2020/05/07/mix-de-production-delectricite-energie-et-puissance.html).
+-   Connaître les paramètres et notions intervenants dans le secteur de la production d'énergie (différence entre énergie et puissance, facteur de charge, empreinte carbone), voir [\[2\]](https://www.energy-alternatives.eu/2020/05/07/mix-de-production-delectricite-energie-et-puissance.html).
 
--   Développer la notion de mix énergétique et connaître les
-    > spécificités liées à chaque énergie (charbon, gaz, éolien...)
+-   Développer la notion de mix énergétique et connaître les spécificités liées à chaque énergie (charbon, gaz, éolien...)
 
--   Modéliser le système électrique en distinguant une énergie
-    > renouvelable variable et une énergie pilotable.
+-   Modéliser le système électrique en distinguant une énergie renouvelable variable et une énergie pilotable.
 
--   Découvrir les options de flexibilité et moyens de stockage de
-    > l'électricité, leurs contraintes opérationnelles, leurs coûts et
-    > la valeur apportée au système.
+-   Découvrir les options de flexibilité et moyens de stockage de l'électricité, leurs contraintes opérationnelles, leurs coûts et la valeur apportée au système.
 
--   Utiliser un petit outil open source python pour faire de
-    > l'optimisation de mix électrique
+-   Utiliser un petit outil open source python pour faire de l'optimisation de mix électrique
 
-## Contact :
-[antoine.monterrat\@mines-paristech.fr](mailto:antoine.monterrat@mines-paristech.fr),
-[robin.girard\@mines-paristech.fr](mailto:robin.girard@mines-paristech.fr)
+## Contact : antoine.monterrat@mines-paristech.fr robin.girard@mines-paristech.fr
 
 \[1\] [Décomposition du coût actualisé de
 l'électricité](https://www.energy-alternatives.eu/2020/08/20/decomposition-lcoe.html)
