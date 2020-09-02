@@ -1,5 +1,4 @@
-**Le projet d'aménagement global de la plaine de la Bassée : concilier
-gestion des crues, biodiversité et autres usages de l'eau**
+## Le projet d'aménagement global de la plaine de la Bassée : concilier gestion des crues, biodiversité et autres usages de l'eau
 
 (Encadrant : Sophie Guillon)
 
@@ -65,5 +64,4 @@ aux autres solutions possibles. Ils considéreront également les limites
 techniques du projet, ainsi que les impacts sur le fonctionnement
 hydrologique et écologique de la zone.
 
-**Contact :**
-[[sophie.guillon\@mines-paristech.fr]{.underline}](mailto:sophie.guillon@mines-paristech.fr)
+## Contact : sophie.guillon\@mines-paristech.fr
