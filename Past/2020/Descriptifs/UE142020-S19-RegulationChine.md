@@ -1,5 +1,4 @@
-Quel rôle du pouvoir régulateur dans la transition énergétique et
-écologique. Exemple de la Chine.
+#Quel rôle du pouvoir régulateur dans la transition énergétique et écologique. Exemple de la Chine.
 
 (encadrant : Alain Thorel)
 
