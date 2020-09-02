@@ -30,7 +30,7 @@ critères à discuter. Enfin, ce travail pourra conduire à la comparaison
 de certaines données suivant les sources et à conception d'indicateurs
 originaux.
 
-## Contact : sandrine.selosse\@mines-paristech.fr
+## Contact : sandrine.selosse@mines-paristech.fr
 
 \[1\]
 [https://www.agenda-2030.fr/agenda2030/dispositif-de-suivi-les-indicateurs-19](https://www.agenda-2030.fr/agenda2030/dispositif-de-suivi-les-indicateurs-19)
