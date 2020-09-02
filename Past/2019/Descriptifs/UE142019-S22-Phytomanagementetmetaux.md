@@ -1,5 +1,4 @@
-**Phytomanagement : des plantes pour guérir les sols en valorisant les
-métaux extraits des plantes**
+## Phytomanagement : des plantes pour guérir les sols en valorisant les métaux extraits des plantes
 
 (Encadrant : Agnès Laboudigue)
 
@@ -45,5 +44,4 @@ par voie chimique. Au-delà des recherches menées, ces procédés sont-ils
 exploités aujourd'hui ? Peut-on en évaluer la potentialité, le
 rendement ? Quels sont les principaux verrous à leur développement ?
 
-**Contact :**
-[[agnes.laboudigue\@mines-paristech.fr]{.underline}](mailto:agnes.laboudigue@mines-paristech.fr)
+## Contact : agnes.laboudigue\@mines-paristech.fr
