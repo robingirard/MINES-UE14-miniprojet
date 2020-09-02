@@ -1,5 +1,4 @@
-Quel impact du développement des énergies renouvelables en Afrique sur
-les migrations de population
+## Quel impact du développement des énergies renouvelables en Afrique sur les migrations de population
 
 (Encadrant : Alain Thorel)
 
@@ -61,5 +60,4 @@ du point de vue collectif ou individuel de futurs ingénieurs de nos
 contribuer efficacement à développer localement ces technologies
 associées aux énergies renouvelables ?
 
-**Contact :**
-[[bruno.peuportier\@mines-paristech.fr]{.underline}](mailto:bruno.peuportier@mines-paristech.fr)
+11 Contact :** alain.thorel\@mines-paristech.fr
