@@ -1,4 +1,4 @@
-Quel potentiel pour les ressources minérales non conventionnelles ?
+## Quel potentiel pour les ressources minérales non conventionnelles ?
 
 (Encadrant : Damien Goetz)
 
