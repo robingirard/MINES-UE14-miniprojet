@@ -30,7 +30,7 @@ biocarburant au Brésil est responsable de déforestation (pour la canne à
 sucre), or la déforestation est synonyme de destruction de puits de
 carbone et donc rejet de CO2 dans l'atmosphère.
 
-### [Objectif] : 
+### Objectif : 
 
  - Dresser un panorama des biocarburants dans le monde (chaine de fabrication géographique). 
 
