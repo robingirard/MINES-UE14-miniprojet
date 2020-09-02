@@ -58,9 +58,9 @@ récent à basse consommation, maisons anciennes ou neuves, passives ou à
 Le rendu devra se présenter sous la forme d'un poster, que les étudiants
 devront commenter tout en répondant aux questions d'un jury.
 
-Contact : bruno.peuportier\@mines-paristech.fr
+## Contact : bruno.peuportier@mines-paristech.fr
 
-Références bibliographiques
+## Références bibliographiques
 
 [\[1\] [
 https://hal-mines-paristech.archives-ouvertes.fr/hal-01464310/document](https://hal-mines-paristech.archives-ouvertes.fr/hal-01464310/document)
