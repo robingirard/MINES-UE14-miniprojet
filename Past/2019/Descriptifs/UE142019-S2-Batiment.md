@@ -1,6 +1,4 @@
-**Quelles orientations pour la transition énergétique dans le domaine
-des bâtiments ?**
-
+## Quelles orientations pour la transition énergétique dans le domaine des bâtiments ? 
 (Encadrant : Bruno Peuportier)
 
 Le secteur du bâtiment est le plus consommateur d'énergie en France (et
@@ -54,5 +52,4 @@ récent à basse consommation, maisons anciennes ou neuves, passives ou à
 devra se présenter sous la forme d'un poster, que les étudiants devront
 commenter tout en répondant aux questions d'un jury.
 
-**Contact :**
-[[bruno.peuportier\@mines-paristech.fr]{.underline}](mailto:bruno.peuportier@mines-paristech.fr)
+## Contact : bruno.peuportier\@mines-paristech.fr
