@@ -25,6 +25,6 @@
  * journée de soutenance poster : 18 Décembre
 
 **Listes de sujets pour l'année 2020**
-La liste est disponible [ici]((https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/ListeProjets.html))
+La liste est disponible [ici](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/ListeProjets.html)
 
 **Sujets des années précédentes** [2019](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2019/ListeProjets.html)
