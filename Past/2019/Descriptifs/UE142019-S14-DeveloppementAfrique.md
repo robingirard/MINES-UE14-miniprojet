@@ -60,4 +60,4 @@ du point de vue collectif ou individuel de futurs ingénieurs de nos
 contribuer efficacement à développer localement ces technologies
 associées aux énergies renouvelables ?
 
-## Contact :** alain.thorel\@mines-paristech.fr
+## Contact : alain.thorel\@mines-paristech.fr
