@@ -1,6 +1,6 @@
 ## Bases de données et planification énergie-climat
 
-(Encadrant : Sandrine Selosse
+(Encadrant : Sandrine Selosse)
 
 La lutte contre le réchauffement climatique appelle un changement
 drastique de nos sociétés, et notamment des systèmes énergétiques. Pour
