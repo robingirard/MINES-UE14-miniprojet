@@ -71,7 +71,7 @@ peut-être avant 2020.
 [[https://www.ademe.fr/mix-electrique-100-renouvelable-analyses-optimisations]{.underline}](https://www.ademe.fr/mix-electrique-100-renouvelable-analyses-optimisations)
 
 \[4\] rapport principal de l'étude pour l'ADEME
-[[https://www.ademe.fr/sites/default/files/assets/documents/mix-electrique-rapport-2015.pdf]{.underline}](https://www.ademe.fr/sites/default/files/assets/documents/mix-electrique-rapport-2015.pdf)
+[[https://www.ademe.fr/sites/default/files/assets/documents/mix-electrique-rapport-2015.pdf]](https://www.ademe.fr/sites/default/files/assets/documents/mix-electrique-rapport-2015.pdf)
 
 \[5\]
 [[https://jancovici.com/transition-energetique/renouvelables/100-renouvelable-pour-pas-plus-cher-fastoche/]{.underline}](https://jancovici.com/transition-energetique/renouvelables/100-renouvelable-pour-pas-plus-cher-fastoche/)
