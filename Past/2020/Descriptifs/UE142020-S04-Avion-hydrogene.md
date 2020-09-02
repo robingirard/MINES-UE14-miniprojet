@@ -46,4 +46,4 @@ l'aéronautique](https://www.economie.gouv.fr/plan-soutien-aeronautique)
 \[2\] [Hydrogen-powered
 aviation](https://www.fch.europa.eu/publications/hydrogen-powered-aviation)
 
-## Contact : pedro.affonso_nobrega\@mines-parsitech.fr
+## Contact : pedro.affonso_nobrega@mines-parsitech.fr
