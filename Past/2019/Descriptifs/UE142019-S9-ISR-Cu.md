@@ -1,5 +1,4 @@
-Potentiel de l'exploitation par ISR pour les minéraux pour la transition
-énergétique
+## Potentiel de l'exploitation par ISR pour les minéraux pour la transition énergétique
 
 (Encadrants : Vincent Lagneau, Damien Goetz)
 
@@ -39,6 +38,4 @@ des gisements). Ces éléments permettront d'alimenter une réflexion sur
 le rôle que peut jouer cette technique, dans un contexte de
 développement rapide de la capacité mondiale de production.
 
-**Contacts :**
-[[vincent.lagneau\@mines-paristech.fr]{.underline}](mailto:vincent.lagneau@mines-paristech.fr),
-[[damien.goetz\@mines-paristech.fr]{.underline}](mailto:damien.goetz@mines-paristech.fr)
+## Contacts : vincent.lagneau\@mines-paristech.fr,  damien.goetz\@mines-paristech.fr
