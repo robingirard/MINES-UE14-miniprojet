@@ -51,10 +51,10 @@ l'objectif de
 
 ## Contacts :
 
-Cathy Descamps-Large - cathy.descamps-large\@mines-paristech.fr ISIGE --
+Cathy Descamps-Large - cathy.descamps-large@mines-paristech.fr ISIGE --
 MINES Paris
 
-Jasha Oosterbaan -- jasha.oosterbaan\@mines-paristech.fr (ISIGE -- MINES
+Jasha Oosterbaan -- jasha.oosterbaan@mines-paristech.fr (ISIGE -- MINES
 Paris)
 
 ## Biblio:
