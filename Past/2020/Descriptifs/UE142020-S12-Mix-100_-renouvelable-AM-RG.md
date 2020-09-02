@@ -50,7 +50,7 @@ attendus.
 
 -   Utiliser un petit outil open source python pour faire de l'optimisation de mix électrique
 
-## Contact : antoine.monterrat@mines-paristech.fr robin.girard@mines-paristech.fr
+## Contact : antoine.monterrat@total.com robin.girard@mines-paristech.fr
 
 \[1\] [Décomposition du coût actualisé de
 l'électricité](https://www.energy-alternatives.eu/2020/08/20/decomposition-lcoe.html)
