@@ -87,4 +87,4 @@ Détail sur le calcul des facteurs d'émission de l'essence et du gazole :
 
 [https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Carbon\_dioxide\_equivalent/fr\#:\~:text=L\'%C3%A9quivalent%20dioxyde%20de%20carbone,de%20carbone%20ayant%20le%20m%C3%AAme](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Carbon_dioxide_equivalent/fr#:~:text=L'%C3%A9quivalent%20dioxyde%20de%20carbone,de%20carbone%20ayant%20le%20m%C3%AAme)
 
-## Contact : sebastien.girault\@carbone4.com
+## Contact : sebastien.girault@carbone4.com
