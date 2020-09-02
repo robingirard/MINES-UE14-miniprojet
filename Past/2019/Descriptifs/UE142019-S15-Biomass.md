@@ -1,5 +1,5 @@
-**Technoeconomic and environmental assessment of a biomass cogeneration
-plant for France**
+## Technoeconomic and environmental assessment of a biomass cogeneration
+plant for France
 
 (Encadrant : Sylvestre Njakou-Djomo)
 
@@ -44,5 +44,4 @@ about possible use of bioenergy energy in France. It will also document
 the costs, benefits, and global warming potential of biomass
 gasification base-electricity for the region of France.
 
-**Contact :**
-[[Sylvestre.Njakou-Djomo\@inra.fr]{.underline}](mailto:Sylvestre.Njakou-Djomo@inra.fr)
+## Contact : Sylvestre.Njakou-Djomo\@inra.fr
