@@ -1,4 +1,4 @@
-Mines urbaines et recyclage
+## Mines urbaines et recyclage
 
 (Encadrant : Damien Goetz)
 
