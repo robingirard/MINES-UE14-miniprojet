@@ -17,9 +17,6 @@ notable exception of coal, which has the highest labour content per unit
 of energy produced because of mining, and hydro, which has the lowest
 content.
 
-![](media/image1.png){width="3.1496062992125986in"
-height="1.7706397637795275in"}![](media/image1.png){width="3.1496062992125986in"
-height="1.4021412948381453in"}
 
 **Jobs creation by GWh of electricity produced by technology, activity
 and origin (EU/non-EU), from \[1\].**
