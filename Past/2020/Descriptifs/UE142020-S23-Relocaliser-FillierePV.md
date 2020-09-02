@@ -18,4 +18,4 @@ potentiels d\'acteurs français. Comme l\'innovation serait sans doute un
 ingrédient majeur de cette stratégie, une analyse statistique de données
 de brevet serait utile.
 
-## Contact : matthieu.glachant\@mines-paristech.fr
+## Contact : matthieu.glachant@mines-paristech.fr
