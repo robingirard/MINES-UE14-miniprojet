@@ -1,4 +1,4 @@
-**Vers une crise de lithium ?**
+## Vers une crise de lithium ?
 
 (Encadrant : Jean-François Hochepied)
 
@@ -62,5 +62,4 @@ serre. Il s\'agira notamment :
 Ce sujet est proposé en collaboration avec GeoLith, start-up qui
 développe de nouveaux procédés de captation de lithium.
 
-**Contact :**
-[[jean-francois.hochepied\@mines-paristech.fr]{.underline}](mailto:jean-francois.hochepied@mines-paristech.fr)
+## Contact : jean-francois.hochepied\@mines-paristech.fr
