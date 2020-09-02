@@ -1,5 +1,4 @@
-**Phytomanagement : des plantes pour guérir les sols et produire de
-l'énergie**
+## Phytomanagement : des plantes pour guérir les sols et produire de l'énergie
 
 (Encadrant : Agnès Laboudigue)
 
@@ -42,5 +41,4 @@ Quels sont les retours d'expériences ? Quelles énergies sont visées ?
 Quelles sont les limites et potentialités techniques, environnementales,
 organisationnelles (constitution d'une véritable filière), économiques ?
 
-**Contact :**
-[[agnes.laboudigue\@mines-paristech.fr]{.underline}](mailto:agnes.laboudigue@mines-paristech.fr)
+## Contact : agnes.laboudigue\@mines-paristech.fr
