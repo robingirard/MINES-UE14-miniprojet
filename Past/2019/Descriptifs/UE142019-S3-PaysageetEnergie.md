@@ -1,5 +1,5 @@
-**Quelle inscription paysagère des énergies renouvelables pour opérer la
-transition énergétique ?**
+## Quelle inscription paysagère des énergies renouvelables pour opérer la
+transition énergétique ?
 
 (Encadrant : Auréline Doreau, école du paysage)
 
@@ -37,5 +37,4 @@ les méthodes et les pratiques (des services de l'état, des paysagistes,
 des énergéticiens,...) mises en œuvre ou à l'état de projet pour
 inscrire la transition énergétique dans les paysages.
 
-**Contact :**
-[[a.doreau\@ecole-paysage.fr]{.underline}](mailto:a.doreau@ecole-paysage.fr)
+## Contact : a.doreau\@ecole-paysage.fr
