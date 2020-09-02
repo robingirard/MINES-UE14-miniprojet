@@ -6,7 +6,7 @@ Au printemps 2020, l’épidémie de Covid-19 amène tout un ensemble de pays à
 
 L’objectif de ce mini-projet est de rendre compte de cette production de connaissance touchant à différentes dimensions des relations entre le système terre et l’activité humaine. Il s’agira de réaliser un inventaire et une analyse documentée de l’ensemble des faits établis, des hypothèses débattues ou des problématiques nouvelles ayant émergé à l’occasion de cet événement inédit. L’analyse devra permettre d’appréhender non seulement les contenus de connaissances mais également les dynamiques spatio-temporelles et les différentes formes de débats et d’expertises qui caractérisent leur production. 
 
-## Contact : alexandre.mallard\@mines-paristech.fr
+## Contact : alexandre.mallard@mines-paristech.fr
 
 https://www.ladepeche.fr/2020/03/22/video-coronavirus-ces-effets-spectaculaires-du-confinement-sur-la-nature,8813407.php
 
