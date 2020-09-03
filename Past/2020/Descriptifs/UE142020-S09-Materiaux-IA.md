@@ -32,9 +32,7 @@ IA et low tech ») et pourra capitaliser sur ces premiers travaux.
 
 ## Contact : sebastien.travadel@mines-paristech.fr
 
-\[1\] *L\'Âge des low tech. Vers une civilisation techniquement
-soutenable* (2014). [Philippe Bihouix](https://www.seuil.com/auteur/philippe-bihouix/16560), Paris :
-Seuil.
+\[1\] La guerre des métaux rares : la face cachée de la transition énergétique et numérique (2018). Guillaume Pitron. Paris : Les Liens Qui Libèrent.
 
 \[2\]
 [https://www.youtube.com/watch?v=TxT7HD4rzP4](https://www.youtube.com/watch?v=TxT7HD4rzP4)
