@@ -23,7 +23,7 @@
  [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/Descriptifs/UE142020-S16-RessourceenEau.html) --
 - S17 - Cuisson solaire en France: quelle réalité concrète ?
  [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/Descriptifs/UE142020-S17-CuissonSolaire.html) --
-- S18 - Politique de la transition énergétique [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/Descriptifs/UE142020-S18-Politique.html) --
+- S18 - Le confinement comme expérimentation sur le système terre. Analyse de la production de connaissances scientifiques sur l’environnement issue de la crise du Covid 19 [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/Descriptifs/UE142020-S18-Politique.html) --
 - S19 - Quel rôle du pouvoir régulateur dans la transition énergétique et écologique. Exemple de la Chine.
  [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/Descriptifs/UE142020-S19-RegulationChine.html) --
 - S20 - Chocolat en 2050 ? [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/Descriptifs/UE142020-S20-Chocolat.html) --
