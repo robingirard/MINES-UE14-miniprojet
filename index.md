@@ -1,5 +1,11 @@
 # MINES-UE14-miniprojet
 
+**Listes de sujets pour l'année 2021**
+La liste est disponible [ici](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2021/ListeProjets.html)
+
+**Sujets des années précédentes** [2019](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2019/ListeProjets.html) [2020](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/ListeProjets.html)
+
+
 **L’UE-14** est une l’unité d’enseignement “Terre et Société”, au premier semestre de la formation à l’école. Elle a été créée en Septembre 2019 et comprend les modules suivants :
 *	l’enseignement « Géosciences et Anthropocène », coordiné par Caroline Mehl. Cet enseignement est consacré à l’apprentissage de la démarche géoscientifique (observation, déduction, modélisation). Il se déroule sous la forme d’une semaine de terrain dédiée à l’observation d’objets géologiques et de l’impact de l’activité humaine sur l’environnement,
 *	l’enseignement « Responsabilités Socio-politiques et Environnementales » assuré par [Alexandre Mallard](http://www.csi.mines-paristech.fr/equipe/chercheurs/alexandre-mallard/). L’enseignement a pour objectif d’apporter une initiation à la sociologie, en appuyant les réflexions sur des questions relatives au développement durable. Il se déroule sous la forme d’une alternance de cours et de petites classes consacrées à des synthèses de lecture d’ouvrages de référence,
@@ -24,7 +30,7 @@
  * présentation des sujets : 3 Septembre
  * journée de soutenance poster : 18 Décembre
 
-**Listes de sujets pour l'année 2020**
-La liste est disponible [ici](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/ListeProjets.html)
+**Listes de sujets pour l'année 2021**
+La liste est disponible [ici](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2021/ListeProjets.html)
 
-**Sujets des années précédentes** [2019](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2019/ListeProjets.html)
+**Sujets des années précédentes** [2019](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2019/ListeProjets.html) [2020](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2020/ListeProjets.html)
