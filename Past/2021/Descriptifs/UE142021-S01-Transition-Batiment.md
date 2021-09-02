@@ -2,9 +2,7 @@
 
 (Encadrant Bruno Peuportier)
 
-Le secteur du bâtiment est le plus consommateur en France (et en Europe)
-: il représente presque la moitié de la consommation énergétique totale,
-et les deux tiers de la consommation d'électricité.
+Le secteur du bâtiment est le plus consommateur en France (et en Europe) : il représente presque la moitié de la consommation énergétique totale, et les deux tiers de la consommation d'électricité.
 
 Le décret tertiaire \[1\] impose de suivre et déclarer les
 consommations énergétiques des bâtiments selon une méthode définie par
@@ -29,26 +27,17 @@ particulier face aux canicules, les aspects économiques, la mobilisation
 des occupants en termes de sobriété, etc. Quelques exemples de questions
 possibles sont indiqués ci-dessous :
 
-> \- Quels sont les principaux leviers d'action, leur faisabilité et
-> leur efficacité (isolation, remplacement des fenêtres, ventilation,
-> système de chauffage, climatisation, éclairage...) ?
->
-> \- Vaut-il mieux une rénovation complète ou un échelonnement des
-> travaux, et dans le 2^ème^ cas par quoi faut-il commencer et dans quel
-> ordre faut-il procéder aux améliorations ?
->
-> \- L'isolation du bâti risque-elle de nuire au confort en période de
-> canicule ? à la qualité de l'air intérieur ?
->
-> \- Quel est le rapport qualité/prix des différentes mesures ?
->
-> \- Les améliorations permettent d'économiser de l'énergie, mais
-> sont-elles bénéfiques à l'environnement, en particulier concernant
-> l'intégration de panneaux photovoltaïques ?
->
-> \- Quel rôle peuvent jouer les élèves et le personnel (vêtements
-> adaptés aux périodes froides ou chaudes, extinction de l'éclairage en
-> inoccupation...) ?
+- Quels sont les principaux leviers d'action, leur faisabilité et leur efficacité (isolation, remplacement des fenêtres, ventilation, système de chauffage, climatisation, éclairage...) ?
+
+- Vaut-il mieux une rénovation complète ou un échelonnement des travaux, et dans le 2^ème^ cas par quoi faut-il commencer et dans quel ordre faut-il procéder aux améliorations ?
+
+- L'isolation du bâti risque-elle de nuire au confort en période de canicule ? à la qualité de l'air intérieur ?
+
+- Quel est le rapport qualité/prix des différentes mesures ?
+
+- Les améliorations permettent d'économiser de l'énergie, mais sont-elles bénéfiques à l'environnement, en particulier concernant l'intégration de panneaux photovoltaïques ?
+
+- Quel rôle peuvent jouer les élèves et le personnel (vêtements adaptés aux périodes froides ou chaudes, extinction de l'éclairage en inoccupation...) ?
 
 Ces quelques clés étant présentées, les élèves pourront choisir
 d'approfondir un ou plusieurs thèmes sur le(s)quel(s) ils/elles mèneront
