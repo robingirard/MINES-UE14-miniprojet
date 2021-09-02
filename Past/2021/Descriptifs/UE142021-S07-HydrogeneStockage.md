@@ -20,9 +20,8 @@ Compte tenu des perspectives de développement du stockage d\'hydrogène en cavi
 
 Le stage proposé consiste à analyser l\'essai d\'étanchéité et à étudier les phénomènes de perte, i.e. de dissolution et de perméation, en s\'appuyant sur les derniers travaux effectués par les centres de Géosciences et de Thermodynamique des Procédés de MINES ParisTech.
 
-![](media/image1.png){width="4.4724103237095365in"
-height="3.182292213473316in"}
 
+![Foo](images/H2.png)
 > ## Figure 1 : Principe de l'essai d\'étanchéité à l'azote ou à
 > l\'hydrogène##
 

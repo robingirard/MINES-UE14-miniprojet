@@ -41,6 +41,6 @@ formation des nuages
 - Une parenthèse sur le trou dans la couche d'ozone et les confusions à
 ne pas faire avec les aérosols !
 
-![](media/image1.png){width="6.5in" height="5.027777777777778in"}
+![Foo](images/GIEC.png)
 
 ## Contact : [seb.girault\@outlook.fr](mailto:sebastien.girault@carbone4.com)
