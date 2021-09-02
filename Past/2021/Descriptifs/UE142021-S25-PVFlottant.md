@@ -1,5 +1,4 @@
-## Evaluation du potentiel des plans d'eau en France pour le
-photovoltaïque flottant## 
+## Evaluation du potentiel des plans d'eau en France pour le photovoltaïque flottant
 
 (Encadrant : Philippe Blanc, Romain Besseau)
 
@@ -34,9 +33,9 @@ caractériser ce potentiel du photovoltaïque flottant en termes d'impacts
 environnementaux.
 
 ## Contact :
-[romain.besseau\@mines-paristech.fr]{.ul}](mailto:romain.besseau@mines-paristech.fr)
+[romain.besseau\@mines-paristech.fr](mailto:romain.besseau@mines-paristech.fr)
 
-[philippe.blanc\@mines-paristech.fr]{.ul}](mailto:philippe.blanc@mines-paristech.fr)
+[philippe.blanc\@mines-paristech.fr](mailto:philippe.blanc@mines-paristech.fr)
 
 ## Bibliographie :
 
@@ -44,5 +43,5 @@ environnementaux.
 Solar Energy Research Institute of Singapore. 2019. Where Sun Meets
 Water : Floating Solar Market Report. World Bank, Washington, DC. ©
 World Bank.
-[https://openknowledge.worldbank.org/handle/10986/31880]{.ul}](https://openknowledge.worldbank.org/handle/10986/31880).
+[https://openknowledge.worldbank.org/handle/10986/31880](https://openknowledge.worldbank.org/handle/10986/31880).
 License: CC BY 3.0 IGO.

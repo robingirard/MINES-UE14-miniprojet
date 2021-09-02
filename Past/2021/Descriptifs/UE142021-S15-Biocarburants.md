@@ -26,22 +26,21 @@ réchauffement climatique. En effet, les ## aérosols émis en partie par
 les activités humaines ont un forçage radiatif et donc tendent à
 refroidir le système climatique. Le sujet de ce mini projet vise à se
 pencher sur ces ## aérosols et à mieux comprendre leur impact sur le
-climat.## 
+climat.##
 
 ## Objectifs :
 
-\- Déterminer les principaux aérosols, ainsi que les gaz précurseurs à
+- Déterminer les principaux aérosols, ainsi que les gaz précurseurs à
 leur formation
 
-\- Leur principales sources d'émissions,
+- Leur principales sources d'émissions,
 
-\- Leur mécanismes d'impact sur le climat et leur participation dans la
+- Leur mécanismes d'impact sur le climat et leur participation dans la
 formation des nuages
 
-\- Une parenthèse sur le trou dans la couche d'ozone et les confusions à
+- Une parenthèse sur le trou dans la couche d'ozone et les confusions à
 ne pas faire avec les aérosols !
 
 ![](media/image1.png){width="6.5in" height="5.027777777777778in"}
 
-## Contact :
-[seb]{.ul}](mailto:sebastien.girault@carbone4.com)## .[girault\@outlook.fr]{.ul}
+## Contact : [seb.girault\@outlook.fr](mailto:sebastien.girault@carbone4.com)

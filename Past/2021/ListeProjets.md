@@ -7,7 +7,7 @@
 - S4 - Appréhender les risques liés à la géothermie profonde.   [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2021/Descriptifs/UE142021-S04-Risque-Geothermie-Profonde.html) --
 - S5 - Autoconsommation PV collective. [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2021/Descriptifs/UE142021-S05-PhilippeBlanc.html) --
 - S6 - La croissance numérique face à l'océan.  [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2021/Descriptifs/UE142021-S06-Materiaux-IA.html) --
-- S7 - Etanchéité d'une cavité saline à l'hydrogène [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2021/Descriptifs/UE142021-S07-HydrogeneStockage.html) -- [
+- S7 - Etanchéité d'une cavité saline à l'hydrogène [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2021/Descriptifs/UE142021-S07-HydrogeneStockage.html) -- 
 - S8 - Stratégie énergie-climat et Objectif de Développement Durable.
  [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2021/Descriptifs/UE142021-S08-SDG-Energie.html) --
 - S9 - Que signifie vraiment « zéro émission nette » ? [Sujet](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2021/Descriptifs/UE142021-S09-NetZero.html) --

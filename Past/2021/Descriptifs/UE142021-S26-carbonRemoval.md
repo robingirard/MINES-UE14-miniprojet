@@ -26,4 +26,5 @@ requise des technologies à émissions négatives prévu dans différents
 scénarios.
 
 ## Contact :
-[gregory.de_temmerman\@mines-paristech.fr]{.ul}](mailto:gregory.de_temmerman@mines-paristech.fr)
+
+[gregory.de_temmerman\@mines-paristech.fr](mailto:gregory.de_temmerman@mines-paristech.fr)

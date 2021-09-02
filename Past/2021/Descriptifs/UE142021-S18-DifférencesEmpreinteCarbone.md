@@ -4,7 +4,7 @@
 Technology, Robin Girard, Mines ParisTech)
 
 Ce sujet s'articule avec le [sujet
-17]{.ul}](https://docs.google.com/document/u/0/d/1GijTxGaNKpwpeuGNfZtfMtOGAOAMh2EOAmpkwYa-2fw/edit).
+17](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2021/Descriptifs/UE142021-S17-EmpreinteCarboneInputOutput.html).
 
 Les méthodes de calcul reposant sur les tables d'entrées-sorties (TES)
 multirégionales (MRIO) sont capables de générer des estimations
@@ -29,11 +29,13 @@ En conclusion, une synthèse présentera les principales limites de
 l'approche "empreinte", et les pistes d'amélioration possibles pour les
 tables entrées-sorties multirégionales et nationales.
 
+## Contact : thomas.gibon\@list.lu
+
 ## Comparaison des deux approches
 
-[https://www.citepa.org/wp-content/uploads/3.1-Approche-empreinte-et-inventaire.pdf]{.ul}](https://www.citepa.org/wp-content/uploads/3.1-Approche-empreinte-et-inventaire.pdf)
+[https://www.citepa.org/wp-content/uploads/3.1-Approche-empreinte-et-inventaire.pdf](https://www.citepa.org/wp-content/uploads/3.1-Approche-empreinte-et-inventaire.pdf)
 
-[https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf]{.ul}](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf)
+[https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf)
 
 ## Données MRIO
 
@@ -41,8 +43,6 @@ Groupe du sujet 17
 
 ## Données SDES/CITEPA
 
-[https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/tableaux_empreinte_carbone.xls]{.ul}](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/tableaux_empreinte_carbone.xls)
+[https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/tableaux_empreinte_carbone.xls](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/tableaux_empreinte_carbone.xls)
 
-[https://www.citepa.org/wp-content/uploads/publications/secten/Citepa_Rapport-Secten_ed2021_v1_30072021.pdf]{.ul}](https://www.citepa.org/wp-content/uploads/publications/secten/Citepa_Rapport-Secten_ed2021_v1_30072021.pdf)
-
-[## Contact : thomas.gibon\@list.lu]{.ul}
+[https://www.citepa.org/wp-content/uploads/publications/secten/Citepa_Rapport-Secten_ed2021_v1_30072021.pdf](https://www.citepa.org/wp-content/uploads/publications/secten/Citepa_Rapport-Secten_ed2021_v1_30072021.pdf)

@@ -1,5 +1,4 @@
 ## Les jeunes ingénieurs face aux urgences environnementales : ca bouge
-!## 
 
 (Encadrants : Cathy Descamps Large et Cécile Schwartz)
 
@@ -42,27 +41,7 @@ d'une étude bibliographique, d'une enquête qualitative et quantitative
 auprès d'étudiants et d'alumni ingénieurs, et de l'observation
 d'indicateurs, à déterminer, de cette mobilisation.
 
-[Proposition de bibliographie]{.ul} (à compléter) :
 
-> ● Hors-Série Socialter Low tech (dirigé par P Bihouix)
->
-> ● Hors-série Socialter : le réveil des imaginaires (dirigé par Alain
-> Damasio)
->
-> ● Articles : Le Monde sur la SALT, Socialter « les cadres se rebiffent
-> » sur les ingés ....
->
-> ● L'âge des low tech, P Bihouix
->
-> ● Synthèse de la note de la Fabrique écologique : Vers des
-> technologies sobres et résilientes -- Pourquoi et comment développer
-> l'innovation « low-tech » ?
->
-> ● *l\'ingénieur face à la transition en cours*
->
-> ● *les besoins de changements*
->
-> ● *alternatives au tout techno*
 
 ## Contacts :
 
@@ -71,3 +50,16 @@ MINES Paris
 
 Cécile Schwartz -- cecile.schwartz\@mines-paristech.fr (ISIGE -- MINES
 Paris)
+
+
+## Proposition de bibliographie (à compléter) :
+
+Hors-Série Socialter Low tech (dirigé par P Bihouix)
+
+Hors-série Socialter : le réveil des imaginaires (dirigé par Alain Damasio)
+
+Articles : Le Monde sur la SALT, Socialter « les cadres se rebiffent » sur les ingés ....
+
+L'âge des low tech, P Bihouix
+
+Synthèse de la note de la Fabrique écologique : Vers des technologies sobres et résilientes -- Pourquoi et comment développer l'innovation « low-tech » ? l\'ingénieur face à la transition en cours

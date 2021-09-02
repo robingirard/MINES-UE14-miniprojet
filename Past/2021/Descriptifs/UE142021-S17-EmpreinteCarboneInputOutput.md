@@ -9,10 +9,10 @@ convention-cadre des Nations Unies sur les changements climatiques
 (CCNUCC, ou UNFCCC) oblige aujourd'hui chaque pays signataire à déclarer
 son inventaire national d'émissions de gaz à effet de serre dit
 "territorial", c'est-à-dire la liste des émissions (quantité, nature,
-source) ayant lieu à l'intérieur de leurs frontières *uniquement*. C'est
+source) ayant lieu à l'intérieur de leurs frontières uniquement. C'est
 aussi dans ce cadre que les objectifs de réductions sont définis, ce qui
 pose un défi majeur, qui constitue une critique récurrente de cette
-comptabilité[^1] : un pays qui exporte sa production industrielle, et
+comptabilité \[1\] : un pays qui exporte sa production industrielle, et
 donc importe ses émissions de l'étranger, diminuera d'autant ses
 émissions de gaz à effet de serre territoriales, sans avoir contribué à
 la réduction globale.
@@ -28,7 +28,7 @@ d'un service, en passant par toutes les étapes de production et
 transformation.
 
 L'objectif du mini-projet est la familiarisation avec la base de données
-entrées-sorties EXIOBASE, version 3.8[^2], le calcul de l'empreinte
+entrées-sorties EXIOBASE, version 3.8 \[2\], le calcul de l'empreinte
 carbone des états de l'UE, leur part d'émissions importées ou exportées
 (quels pays importent/exportent le plus de carbone ? pourquoi et à
 travers quels produits ?), ainsi que l'interprétation des résultats, des
@@ -37,11 +37,13 @@ limites de l'exercice et les possibilités d'amélioration.
 Une connaissance élémentaire du langage python est la bienvenue. Un
 Jupyter Notebook sera fourni avec les fonctions de calcul de base.
 
-Lecture :
-[https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf]{.ul}](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf)
 
-[## Contact : thomas.gibon\@list.lu]{.ul}
+## Contact : thomas.gibon\@list.lu
 
-[^1]: [https://www.citepa.org/fr/2020_01_a06/]{.ul}](https://www.citepa.org/fr/2020_01_a06/)
+## Bibliographie :
+\[1\]: [https://www.citepa.org/fr/2020_01_a06/]{.ul}](https://www.citepa.org/fr/2020_01_a06/)
 
-[^2]: [https://zenodo.org/record/4588235]{.ul}](https://zenodo.org/record/4588235)
+\[2\]: [https://zenodo.org/record/4588235]{.ul}](https://zenodo.org/record/4588235)
+
+Autre lecture :
+[https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf)

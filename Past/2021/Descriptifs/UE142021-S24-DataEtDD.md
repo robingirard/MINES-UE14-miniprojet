@@ -1,5 +1,4 @@
-## Quelles utilisations pour les données, dans les cabinets de conseil en
-stratégie tournés vers le développement durable ?## 
+## Quelles utilisations pour les données, dans les cabinets de conseil en stratégie tournés vers le développement durable ?
 
 (Encadrante : Valérie Roy)
 
@@ -16,15 +15,13 @@ secteurs suivants :
 
 -   mode et cosmétiques (Zara, H&M, Dior...)
 
--   immobilier (agences, fonds d\'investissements, banques (BNP),
-    > maisons ou villages de retraite...)
+-   immobilier (agences, fonds d\'investissements, banques (BNP), maisons ou villages de retraite...)
 
 -   tourisme (entreprises, villes et mairies...)
 
 -   énergie (production...)
 
--   éducation (universités, ou \"nouvelles écoles\"/\"bootcamps\" (42,
-    > le Wagon...)
+-   éducation (universités, ou \"nouvelles écoles\"/\"bootcamps\" (42,le Wagon...)
 
 Votre mission consiste à proposer des pistes afin d'## enrichir
 l\'activité du cabinet par l\'utilisation de la *data:## *
@@ -41,28 +38,22 @@ tous les projets (où applicable) et à explorer la data dans son ensemble
 pour développer au mieux notre activité, et c\'est à vous que revient la
 responsabilité de proposer des pistes pour ce faire.
 
-*Par exemple,* c*haque membre de votre groupe peut se charger d\'un des
+Par exemple, chaque membre de votre groupe peut se charger d\'un des
 secteurs d\'activité proposés et réfléchir aux potentielles utilisations
-de l\'analyse de données.*
+de l\'analyse de données.
 
-1)  *choisir un secteur*
+ - 1  choisir un secteur
 
-2)  *comprendre les problématiques des entreprises de ce secteur (dans
-    > sa chaîne de valeur mais aussi dans toutes ses autres activités)*
+ - 2 comprendre les problématiques des entreprises de ce secteur (dans sa chaîne de valeur mais aussi dans toutes ses autres activités)
 
-3)  *y intégrer l\'axe du développement durable*
+ - 3 y intégrer l\'axe du développement durable*
 
-4)  *quelles données utiliser, et comment, pour répondre à ces
-    > problématiques*
+ - 4 quelles données utiliser, et comment, pour répondre à ces problématiques proposer des indicateurs de performance pour suivre l\'évolution du projet (de quelques mois à quelques années) ?
 
-*proposer des indicateurs de performance pour suivre l\'évolution du
-projet (de quelques mois à quelques années) ?*
-
-5)  *ne vous censurez pas, proposer des idées qui sortent du déjà vu,
-    > même si les données ne sont pas encore accessibles ni collectées*
+ - 5 ne vous censurez pas, proposer des idées qui sortent du déjà vu, même si les données ne sont pas encore accessibles ni collectées*
 
 ## Contact :
 
 Valérie Roy -
-[valerie.roy\@mines-paristech.fr]{.ul}](mailto:valerie.roy@mines-paristech.fr)
+[valerie.roy\@mines-paristech.fr](mailto:valerie.roy@mines-paristech.fr)
 CMA - MINES ParisTech
