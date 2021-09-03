@@ -5,7 +5,7 @@
 Le réchauffement climatique que nous connaissons aujourd'hui provient
 d'un déséquilibre du bilan radiatif terrestre. La quantité d'énergie qui
 rentre dans le système climatique (atmosphère, cryosphère, océan,
-biosphère et lithosphère) est plus faible que l'énergie réémise vers
+biosphère et lithosphère) est plus grande que l'énergie réémise vers
 l'espace. Ceci s'explique par le forçage radiatif de certains composés
 naturels mais surtout anthropiques (ce qui explique qu'il y a un
 réchauffement aussi brutal et rapide).
@@ -22,11 +22,11 @@ l'énergie reçue et donc tendent à réchauffer le système (via l'effet de
 serre anthropique).
 
 Cependant, l\'anthropique ne veut pas forcément dire participation au
-réchauffement climatique. En effet, les ## aérosols émis en partie par
-les activités humaines ont un forçage radiatif et donc tendent à
+réchauffement climatique. En effet, les aérosols émis en partie par
+les activités humaines ont un forçage radiatif négatif et donc tendent à
 refroidir le système climatique. Le sujet de ce mini projet vise à se
-pencher sur ces ## aérosols et à mieux comprendre leur impact sur le
-climat.##
+pencher sur ces aérosols et à mieux comprendre leur impact sur le
+climat.
 
 ## Objectifs :
 
