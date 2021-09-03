@@ -1,6 +1,6 @@
 ## Quels besoins énergétiques pour décarboner le transport aérien ?
 
-(Encadrants : Aurélien Bigo, ADEME)
+(Encadrants : Aurélien Bigo, Chaire Energie et Prospérité)
 
 Avec les objectifs ambitieux de décarbonation de l\'économie, le
 transport aérien se retrouve confronté au besoin de se séparer de sa
