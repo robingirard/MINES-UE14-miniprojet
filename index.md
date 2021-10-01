@@ -26,9 +26,10 @@ La liste est disponible [ici](https://robingirard.github.io/MINES-UE14-miniproje
 
 **NOTE IMPORTANTE** A part pour la présentation de l’ensemble des sujets en début d’année, et la journée de soutenance en décembre, aucun créneau n’est bloqué dans l’emploi du temps pour le travail sur le mini-projet. Vous devez donc définir vos créneaux au sein de chaque groupe, et en accord avec le coordinateur de votre projet pour les réunions avec lui.
 
-**Créneaux bloqués en 2020**
- * présentation des sujets : 3 Septembre
- * journée de soutenance poster : 18 Décembre
+**Créneaux bloqués en 2021**
+ * présentation des sujets : début Septembre
+ * choix des sujets et lancement des travaux : fin septembre
+ * journée de soutenance poster : vendredi 17 Décembre
 
 **Listes de sujets pour l'année 2021**
 La liste est disponible [ici](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2021/ListeProjets.html)
