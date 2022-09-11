@@ -1,5 +1,4 @@
-## Etude de la ventilation dans le cadre de la rénovation du 60 Bd St
-Michel## 
+## Etude de la ventilation dans le cadre de la rénovation du 60 Bd StMichel## 
 
 (Encadrant Bruno Peuportier)
 
