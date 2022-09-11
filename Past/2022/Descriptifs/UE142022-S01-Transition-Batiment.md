@@ -1,4 +1,4 @@
-## Etude de la ventilation dans le cadre de la rénovation du 60 Bd StMichel## 
+## Etude de la ventilation dans le cadre de la rénovation du 60 Bd StMichel ## 
 
 (Encadrant Bruno Peuportier)
 
@@ -43,7 +43,7 @@ le modèle de simulation thermique du bâtiment.
 Le rendu devra se présenter sous la forme d'un poster, que les étudiants
 devront commenter tout en répondant aux questions d'un jury.
 
-Références bibliographiques
+**Références bibliographiques**
 
 \[1\] Décret n° 2019-771 du 23 juillet 2019 relatif aux obligations
 d\'actions de réduction de la consommation d\'énergie finale dans des
