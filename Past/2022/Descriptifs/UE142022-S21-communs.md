@@ -26,4 +26,5 @@ Une fois le modèle établi, celui-ci servira de base à une analyse de
 risque le confrontant à différentes évolutions possibles des conditions
 extérieures et donnant lieu à une ou plusieurs recommandations.
 
-## Contact : bertrand\@communs-energetiques.fr
+## Contact :
+bertrand\@communs-energetiques.fr

@@ -1,5 +1,4 @@
-## Autoconsommation photovoltaïque collective pour une commune des
-Alpes-Maritimes## 
+## Autoconsommation photovoltaïque collective pour une commune des Alpes-Maritimes ##
 
 (Encadrant : Philippe Blanc)
 
@@ -36,5 +35,5 @@ Ce projet, très concret, sera suivi par l'équipe technique de la mairie
 de Valbonne ainsi que par les responsables de l'autoconsommation
 collective de ENEDIS.
 
-## Contacts :
-[philippe.blanc\@minesparis.psl.eu]{.ul}](mailto:philippe.blanc@minesparis.psl.eu)
+## Contact :
+[philippe.blanc\@minesparis.psl.eu](mailto:philippe.blanc@minesparis.psl.eu)

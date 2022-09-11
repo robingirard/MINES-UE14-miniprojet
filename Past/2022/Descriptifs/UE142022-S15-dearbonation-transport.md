@@ -1,4 +1,4 @@
-Décarbonation du secteur du transport en France
+## Décarbonation du secteur du transport en France
 
 (Encadrant : Robin Girard)
 
@@ -13,24 +13,24 @@ la temporalité des développements associés.
 Dans ce projet, vous devrez effectuer une revue de littérature des
 différents scénarios existants sur la décarbonation du secteur du
 transport (SNBC, ADEME,
-[PTEF]{.ul}](https://theshiftproject.org/focus-sur-le-fret/) du shift
+[PTEF](https://theshiftproject.org/focus-sur-le-fret/) du shift
 Projet, voir la liste ci-dessous), puis à l'aide d'un outil python et de
-données décrivant le parc actuel qui sont à disposition \[[Model de
-prospective
-conso]{.ul}](https://github.com/robingirard/Energy-Alternatives-Planing/tree/master/Models/Prospective_conso)\]
+données décrivant le parc actuel qui sont à disposition \[[Model de prospective conso](https://github.com/robingirard/Energy-Alternatives-Planing/tree/master/Models/Prospective_conso)\]
 vous chercherez à rejouer ces scénarios, à les comparer, et peut-être
-aurez-vous le temps de proposer le votre !
+aurez-vous le temps de proposer le votre.
 
 ## Contacts : robin.girard\@mines-paristech.fr
 
-[https://theshiftproject.org/plan-de-transformation-de-leconomie-francaise-mobilite-longue-distance/]{.ul}](https://theshiftproject.org/plan-de-transformation-de-leconomie-francaise-mobilite-longue-distance/)
+## Quelques références 
 
-[https://theshiftproject.org/focus-sur-le-fret/]{.ul}](https://theshiftproject.org/focus-sur-le-fret/)
+[https://theshiftproject.org/plan-de-transformation-de-leconomie-francaise-mobilite-longue-distance/](https://theshiftproject.org/plan-de-transformation-de-leconomie-francaise-mobilite-longue-distance/)
 
-[https://theshiftproject.org/category/thematiques/transport/]{.ul}](https://theshiftproject.org/category/thematiques/transport/)
+[https://theshiftproject.org/focus-sur-le-fret/](https://theshiftproject.org/focus-sur-le-fret/)
 
-[https://www.ecologie.gouv.fr/strategie-nationale-bas-carbone-snbc]{.ul}](https://www.ecologie.gouv.fr/strategie-nationale-bas-carbone-snbc)
+[https://theshiftproject.org/category/thematiques/transport/](https://theshiftproject.org/category/thematiques/transport/)
 
-[https://assets.rte-france.com/prod/public/2020-06/electromobilitee%20syntheese.pdf]{.ul}](https://assets.rte-france.com/prod/public/2020-06/electromobilitee%20syntheese.pdf)
+[https://www.ecologie.gouv.fr/strategie-nationale-bas-carbone-snbc](https://www.ecologie.gouv.fr/strategie-nationale-bas-carbone-snbc)
 
-[https://transitions2050.ademe.fr/]{.ul}](https://transitions2050.ademe.fr/)
+[https://assets.rte-france.com/prod/public/2020-06/electromobilitee%20syntheese.pdf](https://assets.rte-france.com/prod/public/2020-06/electromobilitee%20syntheese.pdf)
+
+[https://transitions2050.ademe.fr/](https://transitions2050.ademe.fr/)

@@ -1,5 +1,4 @@
-## Quels risques associés au déploiement à grande échelle des
-technologies à émissions négatives ?## 
+## Quels risques associés au déploiement à grande échelle des technologies à émissions négatives ?
 
 (Encadrant : Sandrine Selosse)
 
@@ -45,13 +44,10 @@ prisme de la durabilité de ces solutions et de leurs externalités, les
 interactions possibles avec les objectifs de développement durable
 pourront éventuellement être mises en avant.
 
-\[1\] Smith, P., Davis, S. J., Creutzig, F., Fuss, S., Minx, J.,
-Gabrielle, B. et al. (2016). Biophysical and economic limits to negative
-CO2 emissions. Nature Climate Change 6, 42-50.
-https://doi.org/10.1038/nclimate2870
+\[1\] [Smith, P., Davis, S. J., Creutzig, F., Fuss, S., Minx, J., Gabrielle, B. et al. (2016). Biophysical and economic limits to negative CO2 emissions. Nature Climate Change 6, 42-50.](https://doi.org/10.1038/nclimate2870)
 
-\[2\] United Nations (2021). Sustainable Development - The 17 goals.
-Department of Economic and Social Affairs. https://sdgs.un.org/goals
+
+\[2\] [United Nations (2021). Sustainable Development - The 17 goals. Department of Economic and Social Affairs.](https://sdgs.un.org/goals)
 
 ## Contact :
-[sandrine.selosse\@minesparis.psl.eu]{.ul}](mailto:sandrine.selosse@minesparis.psl.eu)
+[sandrine.selosse\@minesparis.psl.eu](mailto:sandrine.selosse@minesparis.psl.eu)

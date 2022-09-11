@@ -1,5 +1,4 @@
-Les mines de lithium pourront-elles assurer la demande associée aux
-scénarios de développement de la mobilité électrique
+## Les mines de lithium pourront-elles assurer la demande associée aux scénarios de développement de la mobilité électrique
 
 (Encadrant : Damien Goetz)
 

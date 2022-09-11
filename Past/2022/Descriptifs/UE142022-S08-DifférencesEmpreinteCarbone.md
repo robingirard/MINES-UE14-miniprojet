@@ -1,10 +1,9 @@
 ## Comptabilité carbone, bottom-up vs top down.
 
 (Encadrants : Thomas Gibon, Luxembourg Institute of Science and
-Technology, Robin Girard, Mines ParisTech)
+Technology)
 
-Ce sujet s'articule avec le [sujet
-07]{.ul}](https://docs.google.com/document/u/0/d/1GijTxGaNKpwpeuGNfZtfMtOGAOAMh2EOAmpkwYa-2fw/edit).
+Ce sujet s'articule avec le [sujet 07](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2022/Descriptifs/UE142022-S07-TerritorialeEmpreinte.html).
 
 Les méthodes de calcul reposant sur les tables d'entrées-sorties (TES)
 multirégionales (MRIO) sont capables de générer des estimations
@@ -38,28 +37,28 @@ d'algèbre matricielle, voire de théorie des graphes. Une expérience de
 la programmation en Python (et une connaissance du module *pandas*) est
 fortement recommandée.
 
+## Contact : thomas.gibon\@list.lu
+
 ## Comparaison des approches
 
 \[1\] Méthodologie du calcul de l'empreinte carbone "top-down" SDES
-[https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf]{.ul}](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf)
+[https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf)
 
 \[2\] Méthodologie du calcul de l'empreinte carbone "bottom-up" Carbone
 4
-[https://www.carbone4.com/myco2-empreinte-moyenne-evolution-methodo]{.ul}](https://www.carbone4.com/myco2-empreinte-moyenne-evolution-methodo)
+[https://www.carbone4.com/myco2-empreinte-moyenne-evolution-methodo](https://www.carbone4.com/myco2-empreinte-moyenne-evolution-methodo)
 
 Données ADEME
 
 Base Carbone
-[https://bilans-ges.ademe.fr/fr/accueil/contenu/index/page/presentation/siGras/0]{.ul}](https://bilans-ges.ademe.fr/fr/accueil/contenu/index/page/presentation/siGras/0)
+[https://bilans-ges.ademe.fr/fr/accueil/contenu/index/page/presentation/siGras/0](https://bilans-ges.ademe.fr/fr/accueil/contenu/index/page/presentation/siGras/0)
 
 ## Données MRIO
 
-Groupe du sujet 07
+Groupe du [sujet 07](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2022/Descriptifs/UE142022-S07-TerritorialeEmpreinte.html).
 
 ## Données SDES/CITEPA
 
-[https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/tableaux_empreinte_carbone.xls]{.ul}](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/tableaux_empreinte_carbone.xls)
+[https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/tableaux_empreinte_carbone.xls](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/tableaux_empreinte_carbone.xls)
 
-[https://www.citepa.org/wp-content/uploads/publications/secten/Citepa_Rapport-Secten_ed2021_v1_30072021.pdf]{.ul}](https://www.citepa.org/wp-content/uploads/publications/secten/Citepa_Rapport-Secten_ed2021_v1_30072021.pdf)
-
-[## Contact : thomas.gibon\@list.lu]{.ul}
+[https://www.citepa.org/wp-content/uploads/publications/secten/Citepa_Rapport-Secten_ed2021_v1_30072021.pdf](https://www.citepa.org/wp-content/uploads/publications/secten/Citepa_Rapport-Secten_ed2021_v1_30072021.pdf)

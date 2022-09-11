@@ -1,4 +1,4 @@
-## Etude de la ventilation dans le cadre de la rénovation du 60 Bd StMichel ## 
+## Etude de la ventilation dans le cadre de la rénovation du 60 Bd StMichel ##
 
 (Encadrant Bruno Peuportier)
 
@@ -43,27 +43,27 @@ le modèle de simulation thermique du bâtiment.
 Le rendu devra se présenter sous la forme d'un poster, que les étudiants
 devront commenter tout en répondant aux questions d'un jury.
 
-**Références bibliographiques**
+## Contact : bruno.peuportier\@mines-paristech.fr
+
+## Références bibliographiques
 
 \[1\] Décret n° 2019-771 du 23 juillet 2019 relatif aux obligations
 d\'actions de réduction de la consommation d\'énergie finale dans des
 bâtiments à usage tertiaire, cf.
-[https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038812251/]{.ul}](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038812251/)
+[https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038812251/](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038812251/)
 
 \[2\]
-[https://operat.ademe.fr/\#/public/home]{.ul}](https://operat.ademe.fr/#/public/home)
+[https://operat.ademe.fr/\#/public/home](https://operat.ademe.fr/#/public/home)
 
-\[3\][https://www.economie.gouv.fr/plan-de-relance/profils/collectivites/renovation-energetique-batiments-publics]{.ul}](https://www.economie.gouv.fr/plan-de-relance/profils/collectivites/renovation-energetique-batiments-publics)
+\[3\][https://www.economie.gouv.fr/plan-de-relance/profils/collectivites/renovation-energetique-batiments-publics](https://www.economie.gouv.fr/plan-de-relance/profils/collectivites/renovation-energetique-batiments-publics)
 
 \[4\][https://www.education.gouv.fr/plan-renovation-energetique-des-batiments-la-renovation-des-batiments-scolaires-et-le-role-de-l-9188]{.ul}](https://www.education.gouv.fr/plan-renovation-energetique-des-batiments-la-renovation-des-batiments-scolaires-et-le-role-de-l-9188)
 
-\[5\][http://www.planbatimentdurable.fr/IMG/pdf/re_novation_e\_nerge_tique_des_ba_timents_des_collectivite_s\_locales_juillet_2020.pdf]{.ul}](http://www.planbatimentdurable.fr/IMG/pdf/re_novation_e_nerge_tique_des_ba_timents_des_collectivite_s_locales_juillet_2020.pdf)
+\[5\][http://www.planbatimentdurable.fr/IMG/pdf/re_novation_e\_nerge_tique_des_ba_timents_des_collectivite_s\_locales_juillet_2020.pdf](http://www.planbatimentdurable.fr/IMG/pdf/re_novation_e_nerge_tique_des_ba_timents_des_collectivite_s_locales_juillet_2020.pdf)
 
-\[6\] [https://www.propassif.fr/]{.ul}](https://www.propassif.fr/)
+\[6\] [https://www.propassif.fr/](https://www.propassif.fr/)
 
 \[7\]
-[https://www.lamaisonpassive.fr/]{.ul}](https://www.lamaisonpassive.fr/)
+[https://www.lamaisonpassive.fr/](https://www.lamaisonpassive.fr/)
 
-\[8\] [https://www.izuba.fr/]{.ul}](https://www.izuba.fr/)
-
-Contact : bruno.peuportier\@mines-paristech.fr
+\[8\] [https://www.izuba.fr/](https://www.izuba.fr/)

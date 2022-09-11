@@ -1,3 +1,5 @@
+## Estimation de la déforestation par imagerie satellitaire ##
+
 (Encadrants : Nicolas Maillot)
 
 Des publications récentes indiquent qu'une partie de l'Amazonie émet
@@ -52,20 +54,19 @@ Une séance de revue sera planifiée une fois ou deux par mois.
 Compétences qui pourront être acquises à l'issue de ce projet: Python,
 Matplotlib, GDAL, numpy, scipy, scikit-learn.
 
-## Contact : [nmaillot\@gmail.com]{.ul}](mailto:nmaillot@gmail.com)
+## Contact : [nmaillot\@gmail.com](mailto:nmaillot@gmail.com)
 
 ## Références
 
-\[1\] Amazonia as a carbon source linked to deforestation and climate
-change. https://www.nature.com/articles/s41586-021-03629-6
+\[1\] [Amazonia as a carbon source linked to deforestation and climate change.](https://www.nature.com/articles/s41586-021-03629-6)
 
 \[2\]
-https://sentinels.copernicus.eu/web/sentinel/news/success-stories/-/asset_publisher/3H6l2SEVD9Fc/content/copernicus-sentinel-2-helps-put-a-halt-to-deforestation
+[https://sentinels.copernicus.eu/web/sentinel/news/success-stories/-/asset_publisher/3H6l2SEVD9Fc/content/copernicus-sentinel-2-helps-put-a-halt-to-deforestation](https://sentinels.copernicus.eu/web/sentinel/news/success-stories/-/asset_publisher/3H6l2SEVD9Fc/content/copernicus-sentinel-2-helps-put-a-halt-to-deforestation)
 
-\[3\] High-Resolution Global Maps of 21st-Century Forest Cover Change.
-https://science.sciencemag.org/content/342/6160/850
+\[3\] [High-Resolution Global Maps of 21st-Century Forest Cover Change.](https://science.sciencemag.org/content/342/6160/850)
 
-\[4\] Global Forest Change 2000--2019 Data Download.
-http://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.7.html
 
-\[5\] https://en.wikipedia.org/wiki/Landsat_program
+\[4\] [Global Forest Change 2000--2019 Data Download.](http://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.7.html)
+
+
+\[5\] [https://en.wikipedia.org/wiki/Landsat_program](http://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.7.html)

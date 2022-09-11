@@ -1,5 +1,4 @@
-## Le biogaz, un vecteur utile de la transition énergétique et sociétale
-?## 
+## Le biogaz, un vecteur utile de la transition énergétique et sociétale ?##
 
 (Encadrant : Etienne Goudal (GRDF))
 
@@ -31,11 +30,11 @@ une analyse sur la place effective que peut prendre le biogaz, son rôle
 dans la transition énergétique mais plus globalement dans la transition
 sociétale à laquelle nous sommes confrontés.
 
-## Contact : etienne.goudal\@grdf.fr
+## Contact :
+etienne.goudal\@grdf.fr
 
-[^1]: [World Energy Outlook 2021 -- Analysis -
-    IEA]{.ul}](https://www.iea.org/reports/world-energy-outlook-2021)
+## Quelques références
 
-[^2]: [REPowerEU: affordable, secure and sustainable energy for Europe
-    \| European Commission
-    (europa.eu)]{.ul}](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en)
+[World Energy Outlook 2021 -- Analysis - IEA](https://www.iea.org/reports/world-energy-outlook-2021)
+
+[REPowerEU affordable, secure and sustainable energy for Europe European Commission(europa.eu)](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en)

@@ -1,5 +1,4 @@
-## Neutralité carbone : quelle place pour les solutions fondées sur la
-nature ?## 
+## Neutralité carbone : quelle place pour les solutions fondées sur la nature ?
 
 (Encadrant : Sandrine Selosse)
 
@@ -46,4 +45,5 @@ United Nations Environment Programme and International Union for
 Conservation of Nature (2021). Nature-based solutions for climate change
 mitigation. Nairobi and Gland
 
-## Contact : sandrine.selosse\@minesparis.psl.eu
+## Contact :
+sandrine.selosse\@minesparis.psl.eu

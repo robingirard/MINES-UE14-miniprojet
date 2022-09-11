@@ -1,7 +1,7 @@
 ## Comptabilité carbone, territoriale Vs empreinte.
 
 (Encadrants : Thomas Gibon, Luxembourg Institute of Science and
-Technology, Robin Girard, Mines ParisTech)
+Technology)
 
 L'objectif de cette UE est d'identifier et de comprendre les différences
 entre méthodes de comptabilité carbone "inventaire" et "empreinte".
@@ -34,6 +34,6 @@ graphes. Une expérience de la programmation en Python (et une
 connaissance du module *pandas*) est fortement recommandée.
 
 Lecture :
-[https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf]{.ul}](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf)
+[https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf)
 
-[## Contact : thomas.gibon\@list.lu]{.ul}
+## Contact : thomas.gibon\@list.lu]{.ul}

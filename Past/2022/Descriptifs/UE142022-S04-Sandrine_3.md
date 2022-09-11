@@ -1,5 +1,4 @@
-## Interdépendance Eau-Energie : impact du changement climatique sur les
-ressources en eau et sur les solutions de décarbonation## 
+## Interdépendance Eau-Energie : impact du changement climatique sur les ressources en eau et sur les solutions de décarbonation## 
 
 (Encadrant : Sandrine Selosse)
 

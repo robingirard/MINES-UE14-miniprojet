@@ -2,8 +2,7 @@
 
 (Encadrants : Antoine Rogeau et Quentin Raillard)
 
-En 2020, l'industrie représentait [environ
-30%]{.ul}](https://ourworldindata.org/emissions-by-sector) des émissions
+En 2020, l'industrie représentait [environ 30%](https://ourworldindata.org/emissions-by-sector) des émissions
 de CO2 dans le monde. Face au défi climatique, et dans l'optique d'un
 monde décarboné, il apparaît indispensable d'amorcer une transition
 rapide vers une industrie plus propre, moins émettrice de CO2. Une
@@ -13,7 +12,7 @@ perspective interdisciplinaire ?
 Environ 50% de l'énergie consommée en Belgique l'est par l'industrie,
 dont le deux tiers provient d'énergies fossiles (charbon, gaz naturel et
 pétrole). Ainsi, l'industrie était en 2020 responsable de
-[48%]{.ul}](https://climat.be/en-belgique/climat-et-emissions/emissions-des-gaz-a-effet-de-serre/emissions-par-secteur)
+[48%](https://climat.be/en-belgique/climat-et-emissions/emissions-des-gaz-a-effet-de-serre/emissions-par-secteur)
 des émissions totales du pays.
 
 Pour autant, la responsabilité de la politique énergétique et climatique
@@ -42,31 +41,22 @@ Pour répondre à ces questions, vous devrez développer des modélisations
 simplifiées qui vous permettront d'établir vos propres scénarios de
 décarbonation de l'industrie Belge.
 
-## [Quelques pistes de lecture :]{.ul}
-
--   IEA. (2022). *Belgium 2022 - Energy Policy Review*.
-    > [https://www.iea.org/reports/belgium-2022]{.ul}](https://www.iea.org/reports/belgium-2022)
-
--   Commission Nationale Climat. (2020). *Stratégie à long terme de la
-    > Belgique*.
-    > [https://ec.europa.eu/clima/sites/lts/lts_be_fr.pdf]{.ul}](https://ec.europa.eu/clima/sites/lts/lts_be_fr.pdf)
-
--   Gerres, T., Chaves Ávila, J. P., Llamas, P. L., & San Román, T. G.
-    > (2019). A review of cross-sector decarbonisation potentials in the
-    > European energy intensive industry. *Journal of Cleaner
-    > Production*, *210*, 585--601.
-    > [https://doi.org/10.1016/J.JCLEPRO.2018.11.036]{.ul}](https://doi.org/10.1016/J.JCLEPRO.2018.11.036)
-
--   Elia. (2017). *Electricity Scenarios for Belgium towards 2050*.
-    > [https://www.elia.be/-/media/project/elia/elia-site/electricity-market-and-system\-\--document-library/adequacy\-\--studies/2017/20171114_electricity-scenarios-for-belgium-towards-2050.pdf]{.ul}](https://www.elia.be/-/media/project/elia/elia-site/electricity-market-and-system---document-library/adequacy---studies/2017/20171114_electricity-scenarios-for-belgium-towards-2050.pdf)
-
--   Fraunhofer Institute for Systems and Innovation Research ISI (2019)
-    > *Industrial Innovation: Pathways to deep decarbonisation of
-    > industry*.
-    > [https://www.isi.fraunhofer.de/en/competence-center/energietechnologien-energiesysteme/projekte/pathways.html\#1]{.ul}](https://www.isi.fraunhofer.de/en/competence-center/energietechnologien-energiesysteme/projekte/pathways.html#1)
 
 ## Contact :
 
-[antoine.rogeau@](mailto:antoine.rogeau@engie.com)[minesparis.psl.eu](mailto:quentin.raillard-cazanove@mines-paristech.fr)]{.ul}
+[antoine.rogeau@](mailto:antoine.rogeau@engie.com)
 et
-[quentin.raillard-cazanove\@minesparis.psl.eu]{.ul}](mailto:quentin.raillard-cazanove@mines-paristech.fr)
+[quentin.raillard-cazanove\@minesparis.psl.eu](mailto:quentin.raillard-cazanove@mines-paristech.fr)
+
+
+## Quelques pistes de lecture :
+
+-   IEA. (2022). *Belgium 2022 - Energy Policy Review*. [https://www.iea.org/reports/belgium-2022](https://www.iea.org/reports/belgium-2022)
+
+-   Commission Nationale Climat. (2020). *Stratégie à long terme de la Belgique*. [https://ec.europa.eu/clima/sites/lts/lts_be_fr.pdf](https://ec.europa.eu/clima/sites/lts/lts_be_fr.pdf)
+
+-   Gerres, T., Chaves Ávila, J. P., Llamas, P. L., & San Román, T. G. (2019). A review of cross-sector decarbonisation potentials in the European energy intensive industry. *Journal of Cleaner Production*, *210*, 585--601.[https://doi.org/10.1016/J.JCLEPRO.2018.11.036](https://doi.org/10.1016/J.JCLEPRO.2018.11.036)
+
+-   Elia. (2017). *Electricity Scenarios for Belgium towards 2050*. [https://www.elia.be/-/media/project/elia/elia-site/electricity-market-and-system\-\--document-library/adequacy\-\--studies/2017/20171114_electricity-scenarios-for-belgium-towards-2050.pdf](https://www.elia.be/-/media/project/elia/elia-site/electricity-market-and-system---document-library/adequacy---studies/2017/20171114_electricity-scenarios-for-belgium-towards-2050.pdf)
+
+-   Fraunhofer Institute for Systems and Innovation Research ISI (2019) *Industrial Innovation: Pathways to deep decarbonisation of industry*. [https://www.isi.fraunhofer.de/en/competence-center/energietechnologien-energiesysteme/projekte/pathways.html\#1](https://www.isi.fraunhofer.de/en/competence-center/energietechnologien-energiesysteme/projekte/pathways.html#1)

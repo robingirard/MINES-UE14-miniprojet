@@ -1,3 +1,4 @@
+## Bifurquer ? Les jeunes ingénieurs face aux limites planétaires
 
 De plus en plus de jeunes diplômés des Grandes Ecoles d'ingénieurs
 expriment publiquement un sentiment d'incompatibilité entre d'une part
@@ -20,18 +21,13 @@ formation, \...) ou encore rejoignent des écolieux, pour y expérimenter
 de nouvelles formes de vie collective. Ce phénomène pose question. En
 particulier :
 
--   Ces étudiants et de jeunes diplômés qui bifurquent, combien sont-ils
-    > par promotion ? Cette part est-elle en augmentation ?
+-   Ces étudiants et de jeunes diplômés qui bifurquent, combien sont-ils par promotion ? Cette part est-elle en augmentation ?
 
--   Certains au contraire préfèrent-ils plutôt changer les grandes
-    > entreprises de l'intérieur ?
+-   Certains au contraire préfèrent-ils plutôt changer les grandes entreprises de l'intérieur ?
 
--   Y a-t-il plusieurs degrés de bifurcations et si oui, comment peut-on
-    > les définir, les caractériser ?
+-   Y a-t-il plusieurs degrés de bifurcations et si oui, comment peut-on les définir, les caractériser ?
 
--   Quels sont les freins et les facteurs incitatifs à ces bifurcations
-    > ? Sont-elles conçues comme réversibles ou irréversibles ?
-    > Peuvent-elles évoluer vers plus de radicalisation ?
+-   Quels sont les freins et les facteurs incitatifs à ces bifurcations ? Sont-elles conçues comme réversibles ou irréversibles ? Peuvent-elles évoluer vers plus de radicalisation ?
 
 L'étude propose d'explorer ces questions et d'y apporter des éléments de
 réponse. Pour cela, les étudiants, avec l'aide des encadrantes,
@@ -49,20 +45,16 @@ poster final.
 
 ## Bibliographie
 
--   https://www.lemonde.fr/planete/article/2022/05/11/des-etudiants-d-agroparistech-appellent-a-deserter-des-emplois-destructeurs_6125644_3244.html
+-   [Article du monde - AgroParisTech](https://www.lemonde.fr/planete/article/2022/05/11/des-etudiants-d-agroparistech-appellent-a-deserter-des-emplois-destructeurs_6125644_3244.html)
 
--   Podcast Lemonde :
-    > https://www.lemonde.fr/podcasts/article/2022/05/25/les-deserteurs-ces-diplomes-qui-changent-radicalement-de-vie-pour-preserver-la-planete_6127567_5463015.html
+-   [Podcast Lemonde](https://www.lemonde.fr/podcasts/article/2022/05/25/les-deserteurs-ces-diplomes-qui-changent-radicalement-de-vie-pour-preserver-la-planete_6127567_5463015.html)  
 
--   Vidéo de Antoine Bouzin, doctorant en sociologie à Bordeaux, et
-    > ingénieur : <https://www.youtube.com/watch?v=dtgzPaVU4ec>
+-   Vidéo de Antoine Bouzin, doctorant en sociologie à Bordeaux, et ingénieur : [Video](https://www.youtube.com/watch?v=dtgzPaVU4ec)
 
--   <https://www.lemonde.fr/campus/article/2022/06/25/a-polytechnique-et-a-sciences-po-vent-de-contestation-lors-des-remises-de-diplomes-face-a-l-urgence-climatique-et-sociale_6132043_4401467.html>
+-   [Article du monde - polytechnique](https://www.lemonde.fr/campus/article/2022/06/25/a-polytechnique-et-a-sciences-po-vent-de-contestation-lors-des-remises-de-diplomes-face-a-l-urgence-climatique-et-sociale_6132043_4401467.html)
 
--   La Bascule :
-    > <https://www.philomag.com/livres/basculons-dans-un-monde-vivable>
+-   [La Bascule (philomag)](https://www.philomag.com/livres/basculons-dans-un-monde-vivable)
 
--   Article : « Bifurquer, ces jeunes qui sautent le pas » Politis été
-    > 2022
+-   Article : « Bifurquer, ces jeunes qui sautent le pas » Politis été 2022
 
 -   LinkedIn : Angel Prieto, Pour un réveil écologique

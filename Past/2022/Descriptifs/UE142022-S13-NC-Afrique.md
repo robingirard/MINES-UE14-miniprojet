@@ -1,10 +1,10 @@
-Neutralité carbone en Afrique
+## Neutralité carbone en Afrique
 
 (Encadrant : Marcela Ruiz de Chavez Velez et Robin Girard)
 
-## L'urgence climatique mondiale nous oblige à agir et à agir vite. Le
+ L'urgence climatique mondiale nous oblige à agir et à agir vite. Le
 passage à l'action de tous les acteurs est nécessaire pour répondre à ce
-défi.## 
+défi.##
 
 Selon le dernier rapport spécial du GIEC, les émissions de gaz à effet
 de serre (GES) doivent être divisées par deux d'ici 2030 et la
@@ -41,50 +41,26 @@ se focalisant sur les leviers de réduction de GES identifiés. Ils
 feront, également, la comparaison et l'analyse des scénarios sur un
 tableau excel avec des données mises à disposition.
 
-Quelques références :
-
--   African Development Bank Group (2022). *African Economic Outlook
-    > 2022*: [African Economic Outlook 2022 \| African Development
-    > Bank - Building today, a better Africa tomorrow
-    > (afdb.org)]{.ul}](https://www.afdb.org/en/documents/african-economic-outlook-2022)
-
--   African Union Commission, OECD Development Centre (2022). Paris,
-    > France: Africa's Development Dynamics, Regional value chains for a
-    > sustainable recovery: [Africa\'s Development Dynamics 2022:
-    > Regional Value Chains for a Sustainable Recovery \| en \|
-    > OECD]{.ul}](https://www.oecd.org/dev/africa-s-development-dynamics-3290877b-en.htm)
-
--   Cambridge University Press (2012). *Managing the risks of extreme
-    > events and disasters to advance climate change adaptation*. IPCC:
-    > [Managing the Risks of Extreme Events and Disasters to Advance
-    > Climate Change Adaptation
-    > (ipcc.ch)]{.ul}](https://www.ipcc.ch/site/assets/uploads/2018/03/SREX_Full_Report-1.pdf)
-
--   IEA Publications (2022). Paris, France: *Africa Energy Outlook
-    > 2022*. International Energy Agency: [Africa Energy Outlook 2022
-    > -- Analysis -
-    > IEA]{.ul}](https://www.iea.org/reports/africa-energy-outlook-2022)
-
--   IEA Publications (2021). Paris, France: *Net Zero by 2050*.
-    > International Energy Agency: [Net Zero by 2050 -- Analysis -
-    > IEA]{.ul}](https://www.iea.org/reports/net-zero-by-2050)
-
--   IEA Publications (2019). Paris, France: *Africa Energy Outlook
-    > 2019*. International Energy Agency: [Africa Energy Outlook 2019
-    > -- Analysis -
-    > IEA]{.ul}](https://www.iea.org/reports/africa-energy-outlook-2019)
-
--   IPCC (2022). *IPCC Sixth Assessment Report*: [Climate Change 2022:
-    > Impacts, Adaptation and Vulnerability \| Climate Change 2022:
-    > Impacts, Adaptation and Vulnerability
-    > (ipcc.ch)]{.ul}](https://www.ipcc.ch/report/ar6/wg2/)
-
--   Sachs et al. (2021). NY, USA: *Roadmap to Zero-Carbon
-    > Electrification of Africa by 2050*. Columbia Center on Sustainable
-    > Investment: [CCSI Roadmap to Zero-Carbon Electrification of
-    > Africa by 2050
-    > (columbia.edu)]{.ul}](https://ccsi.columbia.edu/sites/default/files/content/ccsi-roadmap-zero-carbon-electrification-africa.pdf)
-
 ## Contacts :
-[robin.girard\@mines-paristech.fr]{.ul}](mailto:robin.girard@mines-paristech.fr);
-[marcerch\@gmail.com]{.ul}](mailto:marcerch@gmail.com)
+
+[marcerch\@gmail.com](mailto:marcerch@gmail.com)
+[robin.girard\@mines-paristech.fr](mailto:robin.girard@mines-paristech.fr);
+
+
+## Quelques références :
+
+-   African Development Bank Group (2022). *African Economic Outlook 2022*: [African Economic Outlook 2022 \| African Development Bank - Building today, a better Africa tomorrow (afdb.org)](https://www.afdb.org/en/documents/african-economic-outlook-2022)
+
+-   African Union Commission, OECD Development Centre (2022). Paris, France: Africa's Development Dynamics, Regional value chains for a sustainable recovery: [Africa\'s Development Dynamics 2022: Regional Value Chains for a Sustainable Recovery \| en \| OECD](https://www.oecd.org/dev/africa-s-development-dynamics-3290877b-en.htm)
+
+-   Cambridge University Press (2012). *Managing the risks of extreme events and disasters to advance climate change adaptation*. IPCC: [Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation (ipcc.ch)](https://www.ipcc.ch/site/assets/uploads/2018/03/SREX_Full_Report-1.pdf)
+
+-   IEA Publications (2022). Paris, France: *Africa Energy Outlook 2022*. International Energy Agency: [Africa Energy Outlook 2022 -- Analysis - IEA](https://www.iea.org/reports/africa-energy-outlook-2022)
+
+-   IEA Publications (2021). Paris, France: *Net Zero by 2050*. International Energy Agency: [Net Zero by 2050 -- Analysis - IEA](https://www.iea.org/reports/net-zero-by-2050)
+
+-   IEA Publications (2019). Paris, France: *Africa Energy Outlook 2019*. International Energy Agency: [Africa Energy Outlook 2019 -- Analysis - IEA](https://www.iea.org/reports/africa-energy-outlook-2019)
+
+-   IPCC (2022). *IPCC Sixth Assessment Report*: [Climate Change 2022: Impacts, Adaptation and Vulnerability \| Climate Change 2022: Impacts, Adaptation and Vulnerability (ipcc.ch)](https://www.ipcc.ch/report/ar6/wg2/)
+
+-   Sachs et al. (2021). NY, USA: *Roadmap to Zero-Carbon Electrification of Africa by 2050*. Columbia Center on Sustainable Investment: [CCSI Roadmap to Zero-Carbon Electrification of Africa by 2050 (columbia.edu)](https://ccsi.columbia.edu/sites/default/files/content/ccsi-roadmap-zero-carbon-electrification-africa.pdf)
