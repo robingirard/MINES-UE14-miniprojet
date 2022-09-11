@@ -1,5 +1,4 @@
-## Décarbonation de la production d'acier : comparaison de la France,
-l'Allemagne et de l'Italie##
+## Décarbonation de la production d'acier : comparaison de la France, l'Allemagne et de l'Italie
 
 (Encadrants : Antoine Rogeau et Quentin Raillard)
 

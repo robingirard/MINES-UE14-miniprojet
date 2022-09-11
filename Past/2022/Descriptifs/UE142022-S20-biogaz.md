@@ -1,4 +1,4 @@
-## Le biogaz, un vecteur utile de la transition énergétique et sociétale ?##
+## Le biogaz, un vecteur utile de la transition énergétique et sociétale ?
 
 (Encadrant : Etienne Goudal (GRDF))
 
@@ -31,7 +31,8 @@ dans la transition énergétique mais plus globalement dans la transition
 sociétale à laquelle nous sommes confrontés.
 
 ## Contact :
-etienne.goudal\@grdf.fr
+
+[etienne.goudal\@grdf.fr](mailto:etienne.goudal@grdf.fr)
 
 ## Quelques références
 

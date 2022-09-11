@@ -1,4 +1,4 @@
-## Interdépendance Eau-Energie : impact du changement climatique sur les ressources en eau et sur les solutions de décarbonation## 
+## Interdépendance Eau-Energie : impact du changement climatique sur les ressources en eau et sur les solutions de décarbonation
 
 (Encadrant : Sandrine Selosse)
 
@@ -35,4 +35,5 @@ besoins respectifs en eau et énergie pourra être établi et une
 évaluation des conflits d'usage à venir et des limites dans la mise en
 œuvre des solutions bas carbone.
 
-## Contact : sandrine.selosse\@minesparis.psl.eu
+## Contact :
+sandrine.selosse@minesparis.psl.eu

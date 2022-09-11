@@ -37,7 +37,8 @@ d'algèbre matricielle, voire de théorie des graphes. Une expérience de
 la programmation en Python (et une connaissance du module *pandas*) est
 fortement recommandée.
 
-## Contact : thomas.gibon\@list.lu
+## Contact :
+thomas.gibon@list.lu
 
 ## Comparaison des approches
 

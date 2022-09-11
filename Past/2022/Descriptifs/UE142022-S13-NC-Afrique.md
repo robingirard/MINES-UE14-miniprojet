@@ -4,7 +4,7 @@
 
  L'urgence climatique mondiale nous oblige à agir et à agir vite. Le
 passage à l'action de tous les acteurs est nécessaire pour répondre à ce
-défi.##
+défi.
 
 Selon le dernier rapport spécial du GIEC, les émissions de gaz à effet
 de serre (GES) doivent être divisées par deux d'ici 2030 et la

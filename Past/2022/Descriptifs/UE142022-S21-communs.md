@@ -27,4 +27,5 @@ risque le confrontant à différentes évolutions possibles des conditions
 extérieures et donnant lieu à une ou plusieurs recommandations.
 
 ## Contact :
-bertrand\@communs-energetiques.fr
+
+[bertrand\@communs-energetiques.fr](mailto:bertrand@communs-energetiques.fr)

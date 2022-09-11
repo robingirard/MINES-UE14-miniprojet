@@ -46,4 +46,4 @@ Conservation of Nature (2021). Nature-based solutions for climate change
 mitigation. Nairobi and Gland
 
 ## Contact :
-sandrine.selosse\@minesparis.psl.eu
+[sandrine.selosse\@minesparis.psl.eu](mailto:sandrine.selosse@minesparis.psl.eu)

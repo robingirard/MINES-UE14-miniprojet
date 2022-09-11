@@ -36,4 +36,5 @@ connaissance du module *pandas*) est fortement recommandée.
 Lecture :
 [https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/note_methodologique_empreinte_carbone.pdf)
 
-## Contact : thomas.gibon\@list.lu]{.ul}
+## Contact :
+thomas.gibon@list.lu
