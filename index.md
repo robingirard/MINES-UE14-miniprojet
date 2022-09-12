@@ -1,6 +1,6 @@
 # MINES-UE14-miniprojet
 
-Les mini-projet UE-14 font partie de l'unité d'enseignement "Terre et Société" décrite à la fin de cette page. Ici, vous allez trouver : (i) la liste des projets de l'année en cours et des années précédentes, (ii) des instruction sur le déroulement et la soutenance à lire impérativement avant de poser des questions au coordinateur des mini-projets [Robin Girard](mailto:robin.girard@mines-paristech.fr).  
+Les mini-projet UE-14 font partie de l'unité d'enseignement "Terre et Société" décrite à la fin de cette page. Ici, vous allez trouver : (i) la liste des projets de l'année en cours et des années précédentes, (ii) des instructions sur le déroulement et la soutenance à lire impérativement. Si il vous reste des questions, vous pouvez les poser au coordinateur des mini-projets [Robin Girard](mailto:robin.girard@mines-paristech.fr).  
 
 **Listes de sujets pour l'année 2022**
 La liste est disponible [ici](https://robingirard.github.io/MINES-UE14-miniprojet/Past/2022/ListeProjets.html)
