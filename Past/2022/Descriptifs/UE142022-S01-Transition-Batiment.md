@@ -57,7 +57,7 @@ bâtiments à usage tertiaire, cf.
 
 \[3\][https://www.economie.gouv.fr/plan-de-relance/profils/collectivites/renovation-energetique-batiments-publics](https://www.economie.gouv.fr/plan-de-relance/profils/collectivites/renovation-energetique-batiments-publics)
 
-\[4\][https://www.education.gouv.fr/plan-renovation-energetique-des-batiments-la-renovation-des-batiments-scolaires-et-le-role-de-l-9188]{.ul}](https://www.education.gouv.fr/plan-renovation-energetique-des-batiments-la-renovation-des-batiments-scolaires-et-le-role-de-l-9188)
+\[4\][https://www.education.gouv.fr/plan-renovation-energetique-des-batiments-la-renovation-des-batiments-scolaires-et-le-role-de-l-9188](https://www.education.gouv.fr/plan-renovation-energetique-des-batiments-la-renovation-des-batiments-scolaires-et-le-role-de-l-9188)
 
 \[5\][http://www.planbatimentdurable.fr/IMG/pdf/re_novation_e\_nerge_tique_des_ba_timents_des_collectivite_s\_locales_juillet_2020.pdf](http://www.planbatimentdurable.fr/IMG/pdf/re_novation_e_nerge_tique_des_ba_timents_des_collectivite_s_locales_juillet_2020.pdf)
 
